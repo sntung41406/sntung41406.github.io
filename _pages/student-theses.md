@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Student Theses"
-permalink: /student-theses/
+title: "Student Supervision"
+permalink: /student-supervision/
 author_profile: true
 ---
 
@@ -11,84 +11,22 @@ I love advising students!  There is immense fulfillment in guiding someone throu
 
 ## Current Students
 
-### Monica Amezquita
-
-* Topic: **A Temporal Approach to Pedestrian Classification**
-* Expected Completion: Fall 2023
-
-### Alexandra Castelazo
-
-* Topic: **Multistate Markov Models for Analyzing College Student Pathways**
-* Expected Completion: Spring 2024
 
 ## Graduated Students
 
-### Daniel Silva
-
-* Topic: **Gaussian Processes for Time Series Regression Forecasting Significant Ocean Wave Heights**
-* Completed Summer 2023
+### Wei-Ru Chen (Codadvised with Yuki Chino)
+* Topic: **A Study of AMM Mechanisms and Liquidity Provider Rewards**
+* Completed June 2024
 * Currently a *PhD Student at UC Santa Barbara Statistics & Applied Probability*
 
-### Ricardo Aguila
 
-* Topic: **Applications of PCA to Reinforcement Learning of Gridworld Type Problems**
-* Completed Summer 2023
 
-### Maya Kasfy
+## Undergraduate Research
 
-* Topic: **History, Overview, and Connections Between Real Analysis and Probability Theory**
-* Completed Summer 2023
-* Currently a *lecturer at Cal Poly Pomona*
+### 2024 NCTS Undergraduate Summer Research Program (Codadvised with A. Christian Silva)
+* Students: Tzu-Ling Hsieh, Guan Ting Lu, Tai-Jun Lai, Mu-Chian Lin
+* Topic: [Optimization Methods in Quantitative Trading](https://hackmd.io/@e41406/HkEZUILYC)
 
-### Ronald Lencevicius
-
-* Topic: **Connections between Neural Tangent and Laplace Kernels**
-* Summer 2022
-* Currently a *PhD Student at UC Santa Barbara Statistics & Applied Probability*
-
-### Chris Muzquiz
-
-* Topic: **Multi-output Gaussian Process Kernels for Natural Language Processing**
-* Expected Spring 2022
-* Currently a *PhD Student at UC Santa Barbara Statistics & Applied Probability*
-
-### Charles Amelin
-
-* Topic: [Gaussian Process Super-Resolution](https://scholarworks.calstate.edu/downloads/vh53x1825)
-* Completed Summer 2021
-* Currently a *Data Scientist*
-
-### Kaitlyn McGloin
-
-* Topic: [Methodology and Analysis of Collaborative Filtering Recommender Systems](https://scholarworks.calstate.edu/concern/theses/37720j60b)
-* Completed Spring 2021
-* Currently a *Data Scientist Intern at Los Angeles County Office of the Assessor*
-
-### Esteban Escobar
-
-* Topic: [An Introduction to Practical Topological Data Analysis](https://scholarworks.calstate.edu/downloads/td96k8043)
-* Completed Spring 2021
-* Currently a *PhD Student at UC Irvine Statistics*
-
-### Hakeem Frank
-
-* Topic: [Gaussian Process Models for Computer Vision](https://scholarworks.calstate.edu/downloads/jm214v353?locale=en)
-* Completed Spring 2020
-* Currently a *Data Scientist at Esri*
-
-### Yuying (Bella) Guan
-
-* Topic: [Introduction to Gaussian Processes For Regression](https://scholarworks.calstate.edu/downloads/pn89d861h?locale=en)
-* Completed Spring 2020
-* Currently a *Credit Analyst at New Omni Bank*
-
-### Kevin Bailey
-
-* Topic: [Statistical Learning for Esports Match Prediction](https://scholarworks.calstate.edu/downloads/kw52jb221?locale=en)
-* Completed Spring 2020
-* Currently a *Mathematical Statistician at Edwards Air Force Base*
-
-### Gregory Nelson
-
-* Topic: [Red and White Wine Data Analysis](https://scholarworks.calstate.edu/downloads/mg74qp13p)
-* Completed Spring 2020
+### 2023-2024 NCTS Undergraduate Research Program (Codadvised with Chang-Ye Tu)
+* Students: De-Jin Huang, Chen-Chung Yang
+* Topic: Deep Hedging
