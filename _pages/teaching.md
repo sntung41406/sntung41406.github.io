@@ -8,9 +8,6 @@ author_profile: true
 {% include base_path %}
 
 
-
-# Teaching Experience
-
 ## National Tsing Hua University (Assistant Professor)
 
 ### Fall 2024
@@ -35,4 +32,3 @@ author_profile: true
 * Math 253 Multivariable Calculus (Su20)
 * Math 317 Vector Calculus (Sp22)
 * Math 220 Mathematical Proof (W20, W21)
-
