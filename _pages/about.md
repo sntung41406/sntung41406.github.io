@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my academic page. I am an Assistant Professor at the [Department of Mathematics](https://www.math.nthu.edu.tw/) at [National Tsing Hua University](https://nthu-en.site.nthu.edu.tw/). My work bridges theoretical mathematics with practical applications in Decentralized finance and data science.
 
-Below you will find my contact information along with a brief introduction to my research.  You can find more detailed information by using the quick-links up top.
+Below you will find my contact information.  You can find more detailed information by using the quick-links up top.
 
 # Contact Information
 
