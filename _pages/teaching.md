@@ -16,19 +16,20 @@ author_profile: true
 
 ### Past (Fall 2019 -- Spring 2024)
 
-#### Undergraduate Courses
-* MATH 103 Calculus I (F22)
-* MATH 103 Calculus II (Sp23)
-
 #### Graduate Courses
-* [Math 570, Financial Mathematics I](https://beaded-antique-299.notion.site/Financial-Mathematics-I-96824edf692a4986aa6c3b98ae014ac6) (F23)
-* [Math 570, Financial Mathematics II](https://beaded-antique-299.notion.site/Financial-Mathematics-II-64be834e112d4d49ba4e9a0052240220) (Sp24)
+* [Math 570, Financial Mathematics II](https://beaded-antique-299.notion.site/Financial-Mathematics-II-64be834e112d4d49ba4e9a0052240220) (Spring 2024)
+* [Math 570, Financial Mathematics I](https://beaded-antique-299.notion.site/Financial-Mathematics-I-96824edf692a4986aa6c3b98ae014ac6) (Fall 2023)
+
+#### Undergraduate Courses
+* MATH 103: Calculus II (Spring 2023)
+* MATH 103: Calculus I (Fall 2022)
 
 
 
-## Univsersity of British Columbia Department of Mathematics (Postdoctoral Fellow)
-* Math 104 Differential Calculus with Applications to Commerce and Social Sciences (W19)
-* Math 105 Integral Calculus with Applications to Commerce and Social Sciences (Sp20)
-* Math 253 Multivariable Calculus (Su20)
-* Math 317 Vector Calculus (Sp22)
-* Math 220 Mathematical Proof (W20, W21)
+## University of British Columbia (Postdoctoral Fellow)
+### Courses Taught (2019-2022)
+* MATH 317: Vector Calculus (Spring 2022)
+* MATH 220: Mathematical Proof (Winter 2020, Winter 2021)
+* MATH 253: Multivariable Calculus (Summer 2020)
+* MATH 105: Integral Calculus with Applications to Commerce and Social Sciences (Spring 2020)
+* MATH 104: Differential Calculus with Applications to Commerce and Social Sciences (Winter 2019)
