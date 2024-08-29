@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jimmy Risk"
+title                    : "Shen-Ning Tung"
 title_separator          : "-"
-name                     : &name "Jimmy Risk"
+name                     : &name "Shen-Ning Tung"
 description              : &description "personal description"
-url                      : https://jimmyrisk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sntung41406.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jimmyrisk/jimmyrisk.github.io"
+repository               : "sntung41406/sntung41406.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jimmy Risk"
-  avatar           : "profile.png"
-  bio              : "Assistant Professor of Mathematics and Statistics at Cal Poly Pomona"
-  location         : "Pomona, CA"
+  name             : "Shen-Ning Tung"
+  avatar           : "ID_photo.jpg"
+  bio              : "Assistant Professor of Mathematics at National Tsing Hua University"
+  location         : "Hsinchu, Taiwan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=L94aiQ4AAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=L94aiQ4AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jimmyrisk"
+  github           : "sntung41406"
   google_plus      :
   keybase          :
   instagram        :
