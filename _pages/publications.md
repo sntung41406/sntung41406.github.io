@@ -11,10 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-Please see the [homepage](https://jimmyrisk.github.io/) for a brief explanation of current research projects.
-
-## Research Interests
-
 My primary research focus lies in **Decentralized Finance** (DeFi), specifically exploring financial applications built on blockchain technology. My interests within this domain include:
 
 * **DeFi Protocol Design & Analysis**: I'm deeply interested in the mathematical and computational foundations of DeFi protocols. This includes analyzing risk factors like impermanent loss, exploring the efficiency of automated market makers (AMMs), and investigating the impact of governance mechanisms on protocol stability.
