@@ -17,7 +17,7 @@ I love advising students! There is immense fulfillment in guiding someone throug
 ## Graduated Students
 
 ### Wei-Ru Chen (Co-advised with Yuki Chino)
-* Topic: **A Study of AMM Mechanisms and Liquidity Provider Rewards**
+* Topic: [A Study of AMM Mechanisms and Liquidity Provider Rewards](Wei_Ru_thesis.pdf)
 * Completed: June 2024
 
 
