@@ -6,25 +6,18 @@ author_profile: true
 ---
 {% include base_path %}
 
-I have travelled worldwide to give academic talks, often attending the [International Longevity Risk and Capital Markets Solutions Conference (Longevity)](https://www.bayes.city.ac.uk/faculties-and-research/centres/pensions-institute/events/longevity-16) currently held by Bayes Business School in the University of London.  Through this conference, I have given talks in Lyon France, Chicago USA, and Amsterdam Netherlands.
-
 Below is a full list of talks I have given, with slides and/or documents (when applicable).
 
 ## Invited Lectures
-
-* [Genetic Algorithm Applications of Gaussian Process Kernels toward Mortality Surface Inference](Risk-RCLR-mortgp_kernel_slides.pdf). **RCLR Modelling and Societal Impact of Longevity and Ageing Conference in Amsterdam**. *May 2023*.
-* [How Random Was That? (An Introduction to Statistical Modelling)](Science_On_Tap_F21.pdf). **Science on Tap (Cal Poly Pomona College of Science)**. *October 2021*.
-* [The Role of a Kernel in Statistical Learning](UCR_Colloquium_Talk.pdf).  **UC Riverside Applied Statistics Colloquium**. *March 2021*. 
-* [Gaussian Process Models for Mortality Rates and Improvement Factors: An Interactive R Markdown Approach](102618.pdf). **AMS Sectional Meeting; Special Session on Markov Processes, Gaussian Processes and Applications in San Francisco, CA**.  *October 2018*.
-* [An Interactive R Markdown Approach to Mortality Rate and Improvement Modeling using Gaussian Process Models]().  **Fourteenth International Longevity Risk and Capital Markets Solutions Conference in Amsterdam**. *September 2018*. 
-* [Gaussian Process Models for Mortality Rates and Improvement Factors](Longevity12-092216.pdf).  **Twelfth International Longevity Risk and Capital Markets Solutions Conference in Chicago**. *September 2016*.
-* [Statistical Emulators & Longevity Risk](JamesRiskLongevity11.pdf). **Actuarial Research Conference (ARC), University of Toronto**. *August 2015*.
-* [Statistical Emulators & Longevity Risk](JamesRiskLongevity11.pdf). **Eleventh International Longevity Risk and Capital Markets Solutions Conference at Universite Lyon 1, Lyon, France**. *September 2015*.
+* [DeFi Under the Microscope: A Data Science Approach](DeFI_data_science.pdf). **TWSIAM**. *May 2024.*
 
 ## Seminar Talks
-
-* [Stochastic Kriging in Quantile Estimation with Applications to VaR Calculations](Longevity12-092216.pdf). **CPP Mathematics and Statistics Colloquium**. *November 2017*.
-* [Gaussian Processes for Machine Learning](talk.pdf). **CPP Mathematics and Statistics Colloquium**. *March 2017*.
-* [Stochastic Kriging in Quantile Estimation with Applications to VaR Calculations](Longevity12-092216.pdf).  **UCSB Statistics Department Gaussian Process Research Group**.  *November 2016*.
-* [Statistical Emulators & Gaussian Processes](Pstat-May16.pdf). **UCSB Statistics Department Colloquium**. *May 2016*.
-* [Proving the Central Limit Theorem in the strong operator topology](201c-central-limit-theorem.pdf). **UCSB Mathematics Department**. *May 2015*.
+* [Applied Linear Algebra: The Backbone of Real-World Problem Solving](https://hackmd.io/@e41406/HycRq9OVA). **NTHU Mathematics Colloquium**. *June 2024.*
+* [DeFi Under the Microscope: A Data Science Approach](https://hackmd.io/@e41406/HkJEgyRW0). **NTHU Mathematics Colloquium**. *May 2024.*
+* [Decentralized Finance (DeFi): A Beginner's Guide	](DeFi_intro.pdf). **NTHU Mathematics Colloquium**. *April 2024.*
+* On the modularity of 2-adic potentially semi-stable deformation rings. **University of Toronto Number theory seminar**. *Feb 2020*.
+* On the modularity of 2-adic potentially semi-stable deformation rings. **Academia Sinica**. *July 2019*.
+* On the modularity of 2-adic potentially semi-stable deformation rings. **Morningside Center of Mathematics**. *July 2019*.
+* On the automorphy of 2-dimensional potentially semi-stable deformation rings of $G_{\mathbb{Q}_p}$. **University of Bonn Number theory seminar**. *July 2018*.
+* On the automorphy of 2-dimensional potentially semi-stable deformation rings of $G_{\mathbb{Q}_p}$. **University of Cambridge Number theory seminar**. *May 2018*.
+* On the automorphy of 2-dimensional potentially semi-stable deformation rings of $G_{\mathbb{Q}_p}$. **UBC Number theory seminar**. *Mar 2018*.
