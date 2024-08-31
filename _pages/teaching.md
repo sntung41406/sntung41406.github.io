@@ -12,7 +12,7 @@ author_profile: true
 
 ### Fall 2024
 
-* [MATH 597 Mathematical Foundations of Data Science]()
+* [MATH 597 Mathematical Foundations of Data Science](student-theses.md)
 
 ### Past (Fall 2019 -- Spring 2024)
 
