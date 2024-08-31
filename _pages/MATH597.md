@@ -2,7 +2,7 @@
 layout: archive
 title: "MATH 597 Mathematical Foundations of Data Science (F24)"
 permalink: /MATH597/
-author_profile: true
+author_profile: false
 ---
 
 Unlock the power of data with mathematical precision.
