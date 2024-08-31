@@ -14,6 +14,7 @@ I love advising students! There is immense fulfillment in guiding someone throug
 *No current students listed at this time*
 
 
+
 ## Graduated Students
 
 ### Wei-Ru Chen (Co-advised with Yuki Chino)
@@ -30,4 +31,8 @@ I love advising students! There is immense fulfillment in guiding someone throug
 
 ### 2023-2024 NCTS Undergraduate Research Program (Co-advised with Chang-Ye Tu)
 * Students: De-Jin Huang, Chen-Chung Yang
-* Topic: Deep Hedging
+* Topic: [Deep Hedging](https://hackmd.io/@JYang/SJOMoqNWA/%2Fr6l2ZZouT-ivlYcLy0aeJg)
+
+### Hua-Hsuan Shih
+* Topic: [Sig-Wasserstein GANs for Time Series Generation](https://github.com/the-salty-austin/FinanceSigWGAN/blob/main/notes.ipynb)
+* Current Position: Master's student at NYU Financial Engineering
