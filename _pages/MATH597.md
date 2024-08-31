@@ -7,19 +7,19 @@ author_profile: true
 
 Unlock the power of data with mathematical precision.
 
-#### Schedule
+### Schedule
 |Date|Lecture|Comments|
 |-|-|-|
 
 
-#### Office Hours 
+### Office Hours 
 I will stay till 7pm for questions after each lecture (may leave early if no one is in the classroom).
 
-#### Prerequisites
+### Prerequisites
 Calculus, Linear algebra, Basic probability and statistics, Programming experience (Python recommended)
 
 
-#### Topics Covered in Lectures
+### Topics Covered in Lectures
 * Introduction to Data Science
 * Review of basic probability and statistics concepts.
 * High-Dimensional Spaces
@@ -32,12 +32,12 @@ Calculus, Linear algebra, Basic probability and statistics, Programming experien
 * Deep Learning and Neural Networks
 * Random Graphs
 
-#### Assignments and Evaluation
+### Assignments and Evaluation
 * Weekly Problem Sets (20%)
 * Midterm Report (30%)
 * Final Project (50%)
 
-#### Course Project
+### Course Project
 The course project offers a chance to deepen your engagement with the mathematical foundations of data science. You have the flexibility to work individually or in a group, and the project can take one of the following forms:
 
 1. **Theoretical Deep Dive**: Select a topic with a strong theoretical basis in data science and provide a comprehensive exploration, elucidating its key concepts, principles, and mathematical underpinnings.
@@ -46,6 +46,6 @@ The course project offers a chance to deepen your engagement with the mathematic
 
 The project should reflect your understanding of the course material and your ability to apply it in a meaningful and insightful way.
 
-#### References
+### References
 * "Foundations of Data Science" by Avrim Blum, John Hopcroft, and Ravindran Kannan
 * The Mathematics of AI: https://mathematical-tours.github.io/maths-ia-course/
