@@ -2,7 +2,7 @@
 layout: archive
 title: "Student Supervision"
 permalink: /student-supervision/
-author_profile: true
+author_profile: false
 ---
 
 {% include base_path %}
