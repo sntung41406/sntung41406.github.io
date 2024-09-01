@@ -40,5 +40,5 @@ The course project is an opportunity to delve deeper into the mathematical found
 ---
 ### Schedule
 |Date|Lecture|Comments|
-|-|-|-|
+|:-|:-:|:-|
 | 9/3 | Introduction to Data Science | online lecture |
