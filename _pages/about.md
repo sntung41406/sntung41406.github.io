@@ -20,7 +20,6 @@ National Tsing Hua University \
 Room 515, General Building III \
 101, Section 2, Kuang-Fu Road\
 Department of Mathematics\
-Room 515\
 ``(+886) (03) 571 5131 ext. 33033``\
 ``tung (at) math (dot) nthu (dot) edu (dot) tw``
 
