@@ -34,6 +34,7 @@ The course project is an opportunity to delve deeper into the mathematical found
 
 ### References
 * **Textbook**: "Foundations of Data Science" by Avrim Blum, John Hopcroft, and Ravindran Kannan
+* **Probability and Statistics:** "All of Statistics: A Concise Course in Statistical Inference" by Larry Wasserman
 * **Recommended Reading:**
     * The Mathematics of AI: https://mathematical-tours.github.io/maths-ia-course/
 
@@ -42,4 +43,5 @@ The course project is an opportunity to delve deeper into the mathematical found
 
 | Date | Lecture | Comments |
 |:-----|:--------|:---------|
-| 9/3  | Introduction to Data Science | [Note](https://hackmd.io/Vis3040nRmOvGl7xbJd3NA?view) |
+| 9/3  | Introduction to Data Science | [Note](https://hackmd.io/@e41406/HJFDURqjA) |
+| 9/10  | High-Dimensional Space | [Note](https://hackmd.io/@e41406/ByuN4X3jC) |
