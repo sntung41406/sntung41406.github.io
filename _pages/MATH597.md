@@ -47,3 +47,4 @@ of Data Sciences: https://mathematical-tours.github.io/book/
 | 9/3  | Introduction to Data Science | [Note](https://hackmd.io/@e41406/HJFDURqjA) |
 | 9/10  | High-Dimensional Space | [Note](https://hackmd.io/@e41406/ByuN4X3jC) |
 | 9/17  | Best-Fit Subspaces and Singular Value Decomposition (SVD) | [Note](https://hackmd.io/@e41406/BkPgoFI6C) |
+| 9/24  | Random Walks and Markov Chains | [Note](https://hackmd.io/@e41406/Sy9oakNnA) |
