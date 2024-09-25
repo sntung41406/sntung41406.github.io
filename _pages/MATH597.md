@@ -35,6 +35,7 @@ The course project is an opportunity to delve deeper into the mathematical found
 ### References
 * **Textbook**: "Foundations of Data Science" by Avrim Blum, John Hopcroft, and Ravindran Kannan
 * **Probability and Statistics:** "All of Statistics: A Concise Course in Statistical Inference" by Larry Wasserman
+* **Linear Algebra:** "Linear Algebra and Learning from Data" by Gilbert Strang
 * **Recommended Reading:**
     * Mathematical Foundations
 of Data Sciences: https://mathematical-tours.github.io/book/
