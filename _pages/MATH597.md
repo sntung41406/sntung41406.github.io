@@ -49,4 +49,5 @@ of Data Sciences: https://mathematical-tours.github.io/book/
 | 9/10  | High-Dimensional Space | [Note](https://hackmd.io/@e41406/ByuN4X3jC) |
 | 9/17  | Best-Fit Subspaces and Singular Value Decomposition (SVD) | [Note](https://hackmd.io/@e41406/BkPgoFI6C) |
 | 9/24  | Random Walks and Markov Chains | [Note](https://hackmd.io/@e41406/Sy9oakNnA) |
-| 10/2  | Signal Processing | [Note](https://hackmd.io/@e41406/H1_S9KqaC) |
+| 10/2  | Typhoon Day Off  |  |
+| 10/9  | Signal Processing | [Note](https://hackmd.io/@e41406/H1_S9KqaC) |
