@@ -51,3 +51,4 @@ of Data Sciences: https://mathematical-tours.github.io/book/
 | 9/24  | Random Walks and Markov Chains | [Note](https://hackmd.io/@e41406/Sy9oakNnA) |
 | 10/2  | Typhoon Day Off  | No class |
 | 10/9  | Signal Processing | [Note](https://hackmd.io/@e41406/H1_S9KqaC) |
+| 10/16  | Machine Learning | [Note](https://hackmd.io/@e41406/rytYLX6pC) |
