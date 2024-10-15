@@ -11,13 +11,20 @@ author_profile: false
 
 {% include base_path %}
 
-My primary research focus lies in **Decentralized Finance** (DeFi), specifically exploring financial applications built on blockchain technology. My interests within this domain include:
+My research explores the fascinating interplay between **Mathematical Finance**, **Data Science**, and **Decentralized Finance (DeFi)**. I focus on developing sophisticated mathematical models and cutting-edge computational techniques to analyze and optimize the rapidly evolving DeFi landscape. Specifically, I investigate **Automated Market Makers (AMMs)**, which are revolutionizing how assets are traded within blockchain-based environments. My goal is to bridge the gap between traditional financial mathematics and the novel challenges posed by DeFi, contributing to both theoretical understanding and practical applications that can shape the future of finance.
 
-* **DeFi Protocol Design & Analysis**: I'm deeply interested in the mathematical and computational foundations of DeFi protocols. This includes analyzing risk factors like impermanent loss, exploring the efficiency of automated market makers (AMMs), and investigating the impact of governance mechanisms on protocol stability.
-* **Quantitative Risk Management in DeFi**: My background in financial mathematics allows me to apply quantitative methods to assess risks associated with DeFi protocols and smart contracts. This encompasses areas like pricing decentralized derivatives, stress testing DeFi systems, and developing risk mitigation strategies.
-* **Machine Learning for DeFi**: I leverage machine learning techniques to enhance decision-making in DeFi. This includes using predictive models for on-chain data analysis, fraud detection in smart contracts, and developing trading algorithms for decentralized exchanges.
 
-A core tenet of my research is to merge rigorous probability and statistical methodologies with contemporary data science challenges in DeFi. By applying techniques like Stochastic processes, I aim to develop models that are not only effective but also transparent and interpretable, promoting trust and understanding in this rapidly evolving field.
+## Current Research Areas
+* **Geometric Mean Market Makers (G3Ms)**: I delve into the mathematical and computational underpinnings of G3Ms. This includes modeling arbitrageur behavior, analyzing liquidity provider wealth dynamics, and developing a **Stochastic Portfolio Theory (SPT)** framework tailored to G3Ms.
+* **Concentrated Liquidity AMMs (CLAMMs)**: CLAMMs, such as Uniswap V3, represent a significant leap forward in AMM design. My research in this area encompasses:
+  * **Liquidity Dynamics Modeling**: Developing stochastic models to capture the complex evolution of liquidity profiles within CLAMMs.
+  * **Optimal Control**: Investigating optimal strategies for liquidity providers, including control stopping and market making problems in the context of CLAMMs.
+* **Econophysics and Stylized Facts in Web3**: I analyze market microstructure and identify stylized facts within Web3 ecosystems to gain a deeper understanding of DeFi trading dynamics.
+
+
+## Research Vision
+My overarching research goal is to build a comprehensive mathematical and computational framework for understanding and optimizing decentralized financial systems. By combining rigorous theoretical analysis with advanced computational methods, I aim to contribute to the foundation of a new financial paradigm that is more efficient, transparent, and accessible.
+
 
 
 
