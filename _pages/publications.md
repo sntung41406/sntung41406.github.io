@@ -15,7 +15,7 @@ My research explores the fascinating interplay between **Mathematical Finance**,
 
 
 ## Current Research Areas
-* **Geometric Mean Market Makers (G3Ms)**: I delve into the mathematical and computational underpinnings of G3Ms. This includes modeling arbitrageur behavior, analyzing liquidity provider wealth dynamics, and developing a **Stochastic Portfolio Theory (SPT)** framework tailored to G3Ms.
+* **Geometric Mean Market Makers (G3Ms)**: I delve into the mathematical and computational underpinnings of G3Ms. This includes modeling arbitrageur behavior, analyzing liquidity provider wealth dynamics, and developing a Stochastic Portfolio Theory (SPT) framework tailored to G3Ms.
 * **Concentrated Liquidity AMMs (CLAMMs)**: CLAMMs, such as Uniswap V3, represent a significant leap forward in AMM design. My research in this area encompasses:
   * **Liquidity Dynamics Modeling**: Developing stochastic models to capture the complex evolution of liquidity profiles within CLAMMs.
   * **Optimal Control**: Investigating optimal strategies for liquidity providers, including control stopping and market making problems in the context of CLAMMs.
