@@ -53,3 +53,4 @@ of Data Sciences: https://mathematical-tours.github.io/book/
 | 10/9  | Signal Processing | [Note](https://hackmd.io/@e41406/H1_S9KqaC) |
 | 10/16  | Machine Learning | [Note](https://hackmd.io/@e41406/rytYLX6pC) |
 | 10/23  | Signature | [Note](https://hackmd.io/@e41406/H1C-7brgJg) |
+| 10/30  | Algorithms for Massive Data | [Note](https://hackmd.io/@e41406/ByVjEVcCC) |
