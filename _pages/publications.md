@@ -29,6 +29,7 @@ My overarching research goal is to build a comprehensive mathematical and comput
 
 
 ## Publications
+* Najnudel, J., Tung, S. N., Yamazaki, K., & Yen, J. Y. (2024). **An arbitrage driven price dynamics of Automated Market Makers in the presence of fees.** (To appear in *Frontiers of Mathematical Finance*)
 * Tung, SN. **On the automorphy of 2-dimensional potentially semistable deformation rings of $G_{\mathbb{Q}_p}$.** *Algebra & Number Theory*, 15(9), 2173–2194 (2021). doi: 10.2140/ant.2021.15.2173 
 * Tung, SN. **On the modularity of 2-adic potentially semi-stable deformation rings.** *Math. Z.* 298, 107–159 (2021). https://doi.org/10.1007/s00209-020-02588-4
 * Paškūnas V, Tung S-N. **Finiteness properties of the category of mod p representations of $\textrm{GL}_2 (\mathbb{Q}_p)$.** *Forum of Mathematics, Sigma.* 2021;9:e80. doi:10.1017/fms.2021.72
