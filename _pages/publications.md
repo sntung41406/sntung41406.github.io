@@ -35,6 +35,5 @@ My overarching research goal is to build a comprehensive mathematical and comput
 * Paškūnas V, Tung S-N. **Finiteness properties of the category of mod p representations of $\textrm{GL}_2 (\mathbb{Q}_p)$.** *Forum of Mathematics, Sigma.* 2021;9:e80. doi:10.1017/fms.2021.72
 
 ## Preprints
-* Najnudel, J., Tung, S. N., Yamazaki, K., & Yen, J. Y. (2024). **An arbitrage driven price dynamics of Automated Market Makers in the presence of fees.** arXiv preprint arXiv:2401.01526. (Submitted)
 * Lee, C. Y., Tung, S. N., & Wang, T. H. (2024). **Growth rate of liquidity provider's wealth in G3Ms.** arXiv preprint arXiv:2403.18177. (Submitted)
 * Silva, A. C., Tung, S. N., & Chen, W. R. (2024). **Stylized facts in Web3.** arXiv preprint arXiv:2408.07653. (Submitted)
