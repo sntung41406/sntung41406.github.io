@@ -46,12 +46,13 @@ of Data Sciences: https://mathematical-tours.github.io/book/
 | Date | Lecture | Comments |
 |:-----|:--------|:---------|
 | 9/3  | Introduction to Data Science | [Note](https://hackmd.io/@e41406/HJFDURqjA) |
-| 9/10  | High-Dimensional Space | [Note](https://hackmd.io/@e41406/ByuN4X3jC) |
-| 9/17  | Best-Fit Subspaces and Singular Value Decomposition (SVD) | [Note](https://hackmd.io/@e41406/BkPgoFI6C) |
-| 9/24  | Random Walks and Markov Chains | [Note](https://hackmd.io/@e41406/Sy9oakNnA) |
-| 10/2  | Typhoon Day Off  | No class |
-| 10/9  | Signal Processing | [Note](https://hackmd.io/@e41406/H1_S9KqaC) |
-| 10/16 | Machine Learning | [Note](https://hackmd.io/@e41406/rytYLX6pC) |
-| 10/23 | Signature | [Note](https://hackmd.io/@e41406/H1C-7brgJg) |
-| 10/30 | Algorithms for Massive Data | [Note](https://hackmd.io/@e41406/ByVjEVcCC) |
-| 10/30 | Clustering | [Note](https://hackmd.io/@e41406/rkxQNqsCA) |
+| 9/10 | High-Dimensional Space | [Note](https://hackmd.io/@e41406/ByuN4X3jC) |
+| 9/17 | Best-Fit Subspaces and Singular Value Decomposition (SVD) | [Note](https://hackmd.io/@e41406/BkPgoFI6C) |
+| 9/24 | Random Walks and Markov Chains | [Note](https://hackmd.io/@e41406/Sy9oakNnA) |
+| 10/2 | Typhoon Day Off  | No class |
+| 10/9 | Signal Processing | [Note](https://hackmd.io/@e41406/H1_S9KqaC) |
+| 10/16| Machine Learning | [Note](https://hackmd.io/@e41406/rytYLX6pC) |
+| 10/23| Signature | [Note](https://hackmd.io/@e41406/H1C-7brgJg) |
+| 10/30| Algorithms for Massive Data | [Note](https://hackmd.io/@e41406/ByVjEVcCC) |
+| 11/6 | Clustering | [Note](https://hackmd.io/@e41406/rkxQNqsCA) |
+| 11/13| Reinforcement Learning | [Note](https://hackmd.io/@e41406/r1z_4p2WJg) |
