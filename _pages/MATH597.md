@@ -56,4 +56,5 @@ of Data Sciences: https://mathematical-tours.github.io/book/
 | 10/30| Algorithms for Massive Data | [Note](https://hackmd.io/@e41406/ByVjEVcCC) |
 | 11/6 | Clustering | [Note](https://hackmd.io/@e41406/rkxQNqsCA) |
 | 11/13| Reinforcement Learning | [Note](https://hackmd.io/@e41406/r1z_4p2WJg) |
-| 11/13| Network | [Note](https://hackmd.io/@e41406/rkd9MkwGJx) |
+| 11/20| Network | [Note](https://hackmd.io/@e41406/rkd9MkwGJx) |
+| 11/27| Optimization |  |
