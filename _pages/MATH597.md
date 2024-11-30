@@ -58,3 +58,4 @@ of Data Sciences: https://mathematical-tours.github.io/book/
 | 11/13| Reinforcement Learning | [Note](https://hackmd.io/@e41406/r1z_4p2WJg) |
 | 11/20| Network | [Note](https://hackmd.io/@e41406/rkd9MkwGJx) |
 | 11/27| Optimization |  |
+| 12/4 | Operations Research | [Note](https://hackmd.io/@e41406/Sk_Ku_d7kl) |
