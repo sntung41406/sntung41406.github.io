@@ -57,5 +57,6 @@ of Data Sciences: https://mathematical-tours.github.io/book/
 | 11/6 | Clustering | [Note](https://hackmd.io/@e41406/rkxQNqsCA) |
 | 11/13| Reinforcement Learning | [Note](https://hackmd.io/@e41406/r1z_4p2WJg) |
 | 11/20| Network | [Note](https://hackmd.io/@e41406/rkd9MkwGJx) |
-| 11/27| Optimization |  |
+| 11/27| Optimization | [Ref.1](https://www.youtube.com/watch?v=9sDidkln7R0), [Ref.2](https://www.youtube.com/watch?v=PFVOTBQJvSE), [Ref.3](https://www.youtube.com/watch?v=IlC7WvfdByo) |
 | 12/4 | Operations Research | [Note](https://hackmd.io/@e41406/Sk_Ku_d7kl) |
+| 12/11| Decentralized Finance | [Ref.1](https://ccaf.io/), [Ref.2](https://uniswap.university/) |
