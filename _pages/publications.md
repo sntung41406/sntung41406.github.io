@@ -26,11 +26,9 @@ My research explores the fascinating interplay between **Mathematical Finance**,
 My overarching research goal is to build a comprehensive mathematical and computational framework for understanding and optimizing decentralized financial systems. By combining rigorous theoretical analysis with advanced computational methods, I aim to contribute to the foundation of a new financial paradigm that is more efficient, transparent, and accessible.
 
 
-
-
 ## Publications
-* A. Christian Silva, Shen-Ning Tung, Wei-Ru Chen. Stylized facts in Web3. Frontiers of Mathematical Finance. doi: 10.3934/fmf.2024021
-* Joseph Najnudel, Shen-Ning Tung, Kazutoshi Yamazaki, Ju-Yi Yen. An arbitrage driven price dynamics of Automated Market Makers in the presence of fees. Frontiers of Mathematical Finance. doi: 10.3934/fmf.2024018
+* A. Christian Silva, Shen-Ning Tung, Wei-Ru Chen. **Stylized facts in Web3.** Frontiers of Mathematical Finance, 2024, 3(4): 572-609. doi: 10.3934/fmf.2024021
+* Joseph Najnudel, Shen-Ning Tung, Kazutoshi Yamazaki, Ju-Yi Yen. **An arbitrage driven price dynamics of Automated Market Makers in the presence of fees.** Frontiers of Mathematical Finance, 2024, 3(4): 560-571. doi: 10.3934/fmf.2024018
 * Tung, SN. **On the automorphy of 2-dimensional potentially semistable deformation rings of $G_{\mathbb{Q}_p}$.** *Algebra & Number Theory*, 15(9), 2173–2194 (2021). doi: 10.2140/ant.2021.15.2173 
 * Tung, SN. **On the modularity of 2-adic potentially semi-stable deformation rings.** *Math. Z.* 298, 107–159 (2021). https://doi.org/10.1007/s00209-020-02588-4
 * Paškūnas V, Tung S-N. **Finiteness properties of the category of mod p representations of $\textrm{GL}_2 (\mathbb{Q}_p)$.** *Forum of Mathematics, Sigma.* 2021;9:e80. doi:10.1017/fms.2021.72
