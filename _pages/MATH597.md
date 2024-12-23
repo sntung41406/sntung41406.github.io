@@ -63,4 +63,4 @@ of Data Sciences: https://mathematical-tours.github.io/book/
 
 ---
 ### Course Project
-* Ya-Zhu Yang [Apply Q-learning on McCall Search Model](https://hackmd.io/@amy0920303/H1OBGzNzke)
+* [Apply Q-learning on McCall Search Model](https://hackmd.io/@amy0920303/H1OBGzNzke) by Ya-Zhu Yang
