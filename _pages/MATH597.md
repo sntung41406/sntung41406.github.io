@@ -60,3 +60,7 @@ of Data Sciences: https://mathematical-tours.github.io/book/
 | 11/27| Optimization | [Ref.1](https://www.youtube.com/watch?v=9sDidkln7R0), [Ref.2](https://www.youtube.com/watch?v=PFVOTBQJvSE), [Ref.3](https://www.youtube.com/watch?v=IlC7WvfdByo) |
 | 12/4 | Operations Research | [Note](https://hackmd.io/@e41406/Sk_Ku_d7kl) |
 | 12/11| Decentralized Finance | [Ref.1](https://ccaf.io/), [Ref.2](https://uniswap.university/) |
+
+---
+### Course Project
+* Ya-Zhu Yang [Apply Q-learning on McCall Search Model](https://hackmd.io/@amy0920303/H1OBGzNzke)
