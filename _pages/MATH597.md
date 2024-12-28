@@ -65,3 +65,4 @@ of Data Sciences: https://mathematical-tours.github.io/book/
 ### Course Project
 * [Apply Q-learning on McCall Search Model](https://hackmd.io/@amy0920303/H1OBGzNzke) by Ya-Zhu Yang
 * [Reinforcement Learning for Snake](https://hackmd.io/@VJXnMijhRbCADboDsX6ihw/ry1JXXhRC) by Felix Uhl
+* [Streamlining Time Series Analysis with sktime](https://hackmd.io/@collyyang/HJyf6EeR0/edit)
