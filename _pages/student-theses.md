@@ -25,14 +25,23 @@ I love advising students! There is immense fulfillment in guiding someone throug
 
 ## Undergraduate Research
 
+### **Predictive Modeling for Optimized Vehicle Allocation and Routing in Postal Delivery** (2024)
+* Students: Jia-Wei Liao, ... 
+* Competition: Postal Big Data Competition 
+* Awards: Best Application Award & GLORY Data Application Innovation Award
+* [Project Notes](https://hackmd.io/AUZwfpsITx66CB8Cj2sN4Q) 
+
 ### 2024 NCTS Undergraduate Summer Research Program (Co-advised with A. Christian Silva)
 * Students: Tzu-Ling Hsieh, Guan Ting Lu, Tai-Jun Lai, Mu-Chian Lin
 * Topic: [Optimization Methods in Quantitative Trading](https://hackmd.io/@e41406/HkEZUILYC)
 
-### 2023-2024 NCTS Undergraduate Research Program (Co-advised with Chang-Ye Tu)
+### **Deep Hedging** (2023-2024) 
 * Students: De-Jin Huang, Chen-Chung Yang
-* Topic: [Deep Hedging](https://hackmd.io/@JYang/SJOMoqNWA/%2Fr6l2ZZouT-ivlYcLy0aeJg)
+* Program: NCTS Undergraduate Research Program
+* Co-advised with Chang-Ye Tu
+* [Project Notes](https://hackmd.io/@JYang/SJOMoqNWA/%2Fr6l2ZZouT-ivlYcLy0aeJg) 
 
-### Hua-Hsuan Shih
-* Topic: [Sig-Wasserstein GANs for Time Series Generation](https://github.com/the-salty-austin/FinanceSigWGAN/blob/main/notes.ipynb)
-* Current Position: Master's student at NYU Financial Engineering
+### **Sig-Wasserstein GANs for Time Series Generation** (2023?) 
+* Student: Hua-Hsuan Shih 
+* Current Position: Master's student at Columbia MSFE
+* [Project Notes](https://github.com/the-salty-austin/FinanceSigWGAN/blob/main/notes.ipynb)
