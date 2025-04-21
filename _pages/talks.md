@@ -9,7 +9,7 @@ author_profile: false
 Below is a full list of talks I have given, with slides and/or documents (when applicable).
 
 ## Invited Lectures
-* **DeFi Under the Microscope: A Data Science Approach** - Taiwanese Society of Industrial and Applied Mathematics (TWSIAM), Taipei, Taiwan - May 2024 - [Link](DeFi_data_science.pdf)
+* **DeFi Under the Microscope: A Data Science Approach** - Taiwanese Society of Industrial and Applied Mathematics (TWSIAM), Taipei, Taiwan - May 2024
 
 ## Seminar Talks
 * **Decentralized Finance: Foundations and Innovations** - NSYSU Mathematics Colloquium, Kaohsiung, Taiwan - March 2025 - [Link](https://hackmd.io/@e41406/H1tC_Jmw1g)
