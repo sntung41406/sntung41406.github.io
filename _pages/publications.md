@@ -11,19 +11,21 @@ author_profile: false
 
 {% include base_path %}
 
-My research explores the fascinating interplay between **Mathematical Finance**, **Data Science**, and **Decentralized Finance (DeFi)**. I focus on developing sophisticated mathematical models and cutting-edge computational techniques to analyze and optimize the rapidly evolving DeFi landscape. Specifically, I investigate **Automated Market Makers (AMMs)**, which are revolutionizing how assets are traded within blockchain-based environments. My goal is to bridge the gap between traditional financial mathematics and the novel challenges posed by DeFi, contributing to both theoretical understanding and practical applications that can shape the future of finance.
+My research explores the fascinating interplay between **Mathematical Finance**, **Data Science**, and **Decentralized Finance (DeFi)**. I focus on developing sophisticated mathematical models and cutting-edge computational techniques to analyze and optimize the rapidly evolving DeFi landscape. Specifically, I investigate **Automated Market Makers (AMMs)**, which are revolutionizing how assets are traded within blockchain-based environments. My goal is to bridge the gap between traditional financial mathematics and the novel challenges posed by DeFi, contributing to both theoretical understanding and practical applications to shape the future of finance.
 
 
 ## Current Research Areas
-* **Geometric Mean Market Makers (G3Ms)**: I delve into the mathematical and computational underpinnings of G3Ms. This includes modeling arbitrageur behavior, analyzing liquidity provider wealth dynamics, and developing a Stochastic Portfolio Theory (SPT) framework tailored to G3Ms.
-* **Concentrated Liquidity AMMs (CLAMMs)**: CLAMMs, such as Uniswap V3, represent a significant leap forward in AMM design. My research in this area encompasses:
-  * **Liquidity Dynamics Modeling**: Developing stochastic models to capture the complex evolution of liquidity profiles within CLAMMs.
-  * **Optimal Control**: Investigating optimal strategies for liquidity providers, including control stopping and market making problems in the context of CLAMMs.
-* **Econophysics and Stylized Facts in Web3**: I analyze market microstructure and identify stylized facts within Web3 ecosystems to gain a deeper understanding of DeFi trading dynamics.
+My current research focuses on the following key areas:
+
+* **Geometric Mean Market Makers (G3Ms):** I delve into the mathematical and computational underpinnings of G3Ms. This includes modeling arbitrageur behavior, analyzing liquidity provider wealth dynamics, and developing a Stochastic Portfolio Theory (SPT) framework tailored to G3Ms.
+* **Concentrated Liquidity AMMs (CLAMMs):** My research on CLAMMs involves the following:
+    * **Liquidity Dynamics Modeling:** Developing stochastic models to capture the complex evolution of liquidity profiles within CLAMMs.
+    * **Optimal Control:** Investigating optimal strategies for liquidity providers, including control stopping and market making problems in the context of CLAMMs.
+* **Econophysics and Stylized Facts in Web3:** I analyze market microstructure and identify stylized facts within Web3 ecosystems to gain a deeper understanding of DeFi trading dynamics.
 
 
 ## Research Vision
-My overarching research goal is to build a comprehensive mathematical and computational framework for understanding and optimizing decentralized financial systems. By combining rigorous theoretical analysis with advanced computational methods, I aim to contribute to the foundation of a new financial paradigm that is more efficient, transparent, and accessible.
+My overarching research goal is to build a comprehensive mathematical and computational framework for understanding and optimizing decentralized financial systems. By combining rigorous theoretical analysis with advanced computational methods, I aim to contribute to the foundation of a new financial paradigm that is more efficient, transparent, and accessible. This will ultimately lead to a permissionless, agent-driven financial system, fostering greater financial inclusion and reducing reliance on traditional intermediaries.
 
 
 ## Publications
