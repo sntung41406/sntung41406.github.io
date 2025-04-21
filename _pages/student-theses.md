@@ -37,10 +37,9 @@ I love advising students! There is immense fulfillment in guiding someone throug
 * Students: Tzu-Ling Hsieh, Guan Ting Lu, Tai-Jun Lai, Mu-Chian Lin
 * Topic: [Optimization Methods in Quantitative Trading](https://hackmd.io/@e41406/HkEZUILYC)
 
-###   2023-2024 NCTS Undergraduate Research Program - **Deep Hedging** (Co-advised with Chang-Ye Tu)
+###   2023-2024 NCTS Undergraduate Research Program (Co-advised with Chang-Ye Tu)
 * Students: De-Jin Huang, Chen-Chung Yang
-* Program: NCTS Undergraduate Research Program
-* [Project Notes](https://hackmd.io/@JYang/SJOMoqNWA/%2Fr6l2ZZouT-ivlYcLy0aeJg)
+* Topic: [Deep Hedging](https://hackmd.io/@JYang/SJOMoqNWA/%2Fr6l2ZZouT-ivlYcLy0aeJg)
 
 ### **Sig-Wasserstein GANs for Time Series Generation** (2023) 
 * Student: Hua-Hsuan Shih
