@@ -38,3 +38,5 @@ My overarching research goal is to build a comprehensive mathematical and comput
 ## Preprints
 * Lee, C. Y., Tung, S. N., & Wang, T. H. (2024). **Growth rate of liquidity provider's wealth in G3Ms.** arXiv preprint arXiv:2403.18177. (Submitted)
 * Tung, S. N., & Wang, T. H. (2024). **A mathematical framework for modelling CLMM dynamics in continuous time.** arXiv preprint arXiv:2412.18580. (Submitted)
+* Risk, J., Tung, S. N., & Wang, T. H. (2025). **Dynamics of Liquidity Surfaces in Uniswap v3** arXiv preprint arXiv:2509.05013.
+
