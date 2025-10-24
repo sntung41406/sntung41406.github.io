@@ -8,18 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my academic page. I am an Assistant Professor at the [Department of Mathematics](https://www.math.nthu.edu.tw/) at [National Tsing Hua University](https://nthu-en.site.nthu.edu.tw/). My work bridges theoretical mathematics with practical applications in *Quantitative Finance* and *Data Science*. My research interests include mathematical finance, applied probability, and stochastic control, with applications in *Decentralized Finance*.
+I am **Shen-Ning Tung**, an Assistant Professor in the [**Department of Mathematics**](https://www.math.nthu.edu.tw/) at [**National Tsing Hua University**](https://nthu-en.site.nthu.edu.tw/). My research specializes in **Mathematical Finance** and **Applied Probability**, bridging theoretical control methodologies with real-world problems in **Quantitative Finance** and emerging areas like **Decentralized Finance (DeFi)**.
 
-Below you will find my contact information. You can find more detailed information by using the quick-links up top.
 
-# Contact Information
-
-Shen-Ning Tung \
+## Contact and Location
+**Shen-Ning Tung** \
 Assistant Professor \
 National Tsing Hua University \
-General Building III \
-101, Section 2, Kuang-Fu Road\
-Department of Mathematics\
-Room 515 \
-``(+886) (03) 571 5131 ext. 33033``\
-``tung (at) math (dot) nthu (dot) edu (dot) tw``
+Department of Mathematics, Room 515 \
+General Building III, 101, Section 2, Kuang-Fu Road \
+**Email:** `tung (at) math (dot) nthu (dot) edu (dot) tw` \
+**Phone:** `(+886) (03) 571 5131 ext. 33033`
