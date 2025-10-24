@@ -11,21 +11,25 @@ author_profile: false
 
 {% include base_path %}
 
-My research explores the fascinating interplay between **Mathematical Finance**, **Data Science**, and **Decentralized Finance (DeFi)**. I focus on developing sophisticated mathematical models and cutting-edge computational techniques to analyze and optimize the rapidly evolving DeFi landscape. Specifically, I investigate **Automated Market Makers (AMMs)**, which are revolutionizing how assets are traded within blockchain-based environments. My goal is to bridge the gap between traditional financial mathematics and the novel challenges posed by DeFi, contributing to both theoretical understanding and practical applications to shape the future of finance.
+I am a mathematical researcher specializing in the **Mathematical and Stochastic Modelling of Decentralized Finance (DeFi)**. My work bridges rigorous **Mathematical Finance** and **Applied Probability** with **Data Science** to analyze and optimize the rapidly evolving DeFi ecosystem. My primary focus is on developing sophisticated models for **Automated Market Makers (AMMs)**, contributing to both the theoretical understanding and the practical applications that will shape the future of finance.
+
 
 
 ## Current Research Areas
-My current research focuses on the following key areas:
+My current research program is focused on deriving robust analytical and computational frameworks for decentralized financial systems:
 
-* **Geometric Mean Market Makers (G3Ms):** I delve into the mathematical and computational underpinnings of G3Ms. This includes modeling arbitrageur behavior, analyzing liquidity provider wealth dynamics, and developing a Stochastic Portfolio Theory (SPT) framework tailored to G3Ms.
-* **Concentrated Liquidity AMMs (CLAMMs):** My research on CLAMMs involves the following:
-    * **Liquidity Dynamics Modeling:** Developing stochastic models to capture the complex evolution of liquidity profiles within CLAMMs.
-    * **Optimal Control:** Investigating optimal strategies for liquidity providers, including control stopping and market making problems in the context of CLAMMs.
-* **Econophysics and Stylized Facts in Web3:** I analyze market microstructure and identify stylized facts within Web3 ecosystems to gain a deeper understanding of DeFi trading dynamics.
+* **Stochastic Control and Game Theory in AMMs:**
+    * **Arbitrage Dynamics:** Investigating the non-myopic strategic interaction between arbitrageurs and AMMs, framed as a *stochastic control/game*, to characterize the equilibrium price and liquidity dynamics.
+    * **Optimal LP Strategy:** Solving the Liquidity Provider's *dynamic liquidity provision strategy*, which involves *optimal control problems* under the constraints of singular processes.
 
+* **Liquidity Modelling and Pricing:**
+    * **Decentralized Liquidity:** Developing a novel mathematical framework to *model decentralized exchange liquidity dynamics* in continuous time, focusing on the rigorous formulation of the evolving liquidity surface.
+    * **Pricing Liquidity:** *Relating liquidity provision to classical option pricing theory* to build a practical *fair fee mechanism* through data-driven approaches. This aims to quantify the cost and risk of providing liquidity.
+    
+* **Applied AI in Decentralized/Quantitative Finance:**
+    * **Market Microstructure:** Analyzing blockchain data to identify and model *unique patterns in Web3*** using techniques from data science.
+    * **Financial Optimization/Planning:** Applying advanced machine learning, such as *Distributional Reinforcement Learning (DRL)* and *World Models*, to build robust market-making strategies that explicitly manage the heavy-tailed, non-Gaussian risks inherent in decentralized markets.
 
-## Research Vision
-My overarching research goal is to build a comprehensive mathematical and computational framework for understanding and optimizing decentralized financial systems. By combining rigorous theoretical analysis with advanced computational methods, I aim to contribute to the foundation of a new financial paradigm that is more efficient, transparent, and accessible. This will ultimately lead to a permissionless, agent-driven financial system, fostering greater financial inclusion and reducing reliance on traditional intermediaries.
 
 
 ## Publications
@@ -39,4 +43,3 @@ My overarching research goal is to build a comprehensive mathematical and comput
 * Lee, C. Y., Tung, S. N., & Wang, T. H. (2024). **Growth rate of liquidity provider's wealth in G3Ms.** arXiv preprint arXiv:2403.18177. (Submitted)
 * Tung, S. N., & Wang, T. H. (2024). **A mathematical framework for modelling CLMM dynamics in continuous time.** arXiv preprint arXiv:2412.18580. (Submitted)
 * Risk, J., Tung, S. N., & Wang, T. H. (2025). **Dynamics of Liquidity Surfaces in Uniswap v3** arXiv preprint arXiv:2509.05013.
-
