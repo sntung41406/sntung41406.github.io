@@ -13,7 +13,6 @@ I am **Shen-Ning Tung**, an Assistant Professor in the [**Department of Mathemat
 
 ## Contact and Location
 **Shen-Ning Tung** \
-Assistant Professor \
 National Tsing Hua University \
 Department of Mathematics, Room 515 \
 General Building III, 101, Section 2, Kuang-Fu Road \
