@@ -41,11 +41,3 @@ I primarily teach advanced courses focusing on the intersection of mathematics, 
 | **Multivariable Calculus** | MATH 253 | Summer 2020 | Functions of several variables, partial derivatives, and multiple integration. |
 | **Integral Calculus with Applications...** | MATH 105 | Spring 2020 | Calculus tailored for Commerce and Social Sciences. |
 | **Differential Calculus with Applications...** | MATH 104 | Winter 2019 | Calculus tailored for Commerce and Social Sciences. |
-
-
-### Courses Taught (2019–2022)
-* **MATH 317: Vector Calculus** - Spring 2022
-* **MATH 220: Mathematical Proof** - Winter 2021, Winter 2020 (Focus on rigorous proof techniques for mathematics majors.)
-* **MATH 253: Multivariable Calculus** - Summer 2020
-* **MATH 105: Integral Calculus with Applications to Commerce and Social Sciences** - Spring 2020
-* **MATH 104: Differential Calculus with Applications to Commerce and Social Sciences** - Winter 2019
