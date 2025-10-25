@@ -44,6 +44,10 @@ I currently supervise and lead three active research groups, emphasizing collabo
 
 I actively mentor undergraduate students through competitive programs and independent projects, focusing on practical data science and quantitative finance applications.
 
+### 2025-2026 NCTS Research Program
+* **Students:** Hai-Ching Shih
+* **Topic:** A Clustering Framework for Identifying On-Chain Behavioral Patterns in Automated Market Makers 
+
 ### 2024 Project: Predictive Modeling for Vehicle Allocation
 * **Project Title:** Predictive Modeling for Optimized Vehicle Allocation and Routing in Postal Delivery
 * **Students:** Shih-Bin Chen, Jie-Hong Lai, Jia-Wei Liao, Yuan-Hong Lin
