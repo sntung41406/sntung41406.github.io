@@ -32,7 +32,16 @@ I primarily teach advanced courses focusing on the intersection of mathematics, 
 
 
 ---
-## University of British Columbia (Postdoctoral Fellow)
+## University of British Columbia (2019–2022)
+
+| Course Name | Course ID | Semester | Key Focus |
+|:---|:---|:---|:---|
+| **Vector Calculus** | MATH 317 | Spring 2022 | Vector fields, line and surface integrals, theorems of Green, Stokes, and Gauss. |
+| **Mathematical Proof** | MATH 220 | Winter 2021, 2020 | Focus on rigorous proof techniques, foundational set theory, and induction. |
+| **Multivariable Calculus** | MATH 253 | Summer 2020 | Functions of several variables, partial derivatives, and multiple integration. |
+| **Integral Calculus with Applications...** | MATH 105 | Spring 2020 | Calculus tailored for Commerce and Social Sciences. |
+| **Differential Calculus with Applications...** | MATH 104 | Winter 2019 | Calculus tailored for Commerce and Social Sciences. |
+
 
 ### Courses Taught (2019–2022)
 * **MATH 317: Vector Calculus** - Spring 2022
