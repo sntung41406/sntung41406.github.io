@@ -13,7 +13,8 @@ author_profile: false
 I primarily teach advanced courses focusing on the intersection of mathematics, finance, and data science.
 
 ### Current Courses
-*On a research leave*
+
+[*MATH 570: Quantitative Finance I**](MATH570.md)
 
 ### Past Graduate Courses
 
