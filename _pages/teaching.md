@@ -14,8 +14,8 @@ I primarily teach advanced courses focusing on the intersection of mathematics, 
 
 ### Current Courses
 
-[*MATH 570: Quantitative Finance I**](MATH570.md)
-[*MATH 594: Numerical Computation with JAX**](MATH594.md)
+[**MATH 570: Quantitative Finance I**](MATH570.md)
+[**MATH 594: Numerical Computation with JAX**](MATH594.md)
 
 ### Past Graduate Courses
 
