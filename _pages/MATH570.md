@@ -5,7 +5,7 @@ permalink: /MATH570/
 author_profile: false
 ---
 
-**Unlock the power of quantitative analysis in finance.** As the foundational course in the Quantitative Data Science sequence, MATH 570 builds the rigorous mathematical, probabilistic, and statistical frameworks necessary for modern Quantitative Finance. We move beyond abstract theory to equip you with the tools needed for real-world financial modeling and data-driven decision-making.
+**Turning Financial Theory into Computational Reality.** As the foundational course in the Quantitative Data Science sequence, MATH 570 builds the rigorous mathematical, probabilistic, and statistical frameworks necessary for modern Quantitative Finance. We move beyond abstract theory to equip you with the tools needed for real-world financial modeling and data-driven decision-making.
 
 ### Course Information
 * **Instructor**: Shen-Ning Tung ([tung@math.nthu.edu.tw](mailto:tung@math.nthu.edu.tw))
