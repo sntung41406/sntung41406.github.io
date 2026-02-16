@@ -5,9 +5,9 @@ permalink: /MATH570/
 author_profile: false
 ---
 
-**Turning Financial Theory into Computational Reality.** As the foundational course in the Quantitative Data Science sequence, MATH 570 builds the rigorous mathematical, probabilistic, and statistical frameworks necessary for modern Quantitative Finance. We move beyond abstract theory to equip you with the tools needed for real-world financial modeling and data-driven decision-making.
+*Turning Financial Theory into Computational Reality.* As the foundational course in the Quantitative Data Science sequence, MATH 570 builds the rigorous mathematical, probabilistic, and statistical frameworks necessary for modern Quantitative Finance. We move beyond abstract theory to equip you with the tools needed for real-world financial modeling and data-driven decision-making.
 
-### Course Information
+## Course Information
 * **Instructor**: Shen-Ning Tung ([tung@math.nthu.edu.tw](mailto:tung@math.nthu.edu.tw))
 * **Lecture Time**: Wednesdays, 14:20 PM – 15:10 PM and Fridays, 10:10 AM - 12:00 AM
 * **Office Hours**: By appointment
@@ -15,13 +15,13 @@ author_profile: false
 
 ---
 
-### Course Description
+## Course Description
 Students will explore the core concepts of **probabilistic modeling** (including conditional independence and copulas) and **mean-covariance statistics**. The course bridges theory and practice through a balanced curriculum:
 * **Theory (40%)**: Lectures focusing on mathematical intuition, rigorous concepts, and derivations.
 * **Context (20%)**: Analysis of real-world financial problems and influential academic papers.
 * **Implementation (40%)**: Hands-on coding assignments utilizing **Python** for sophisticated data analysis.
 
-#### Learning Objectives
+### Learning Objectives
 By the end of this course, students will be able to:
 1. **Apply** suitable data-driven models to interpret and explain complex financial datasets.
 2. **Analyze** large-scale financial data using **Python (NumPy/Pandas)** to derive actionable quantitative insights.
@@ -30,13 +30,13 @@ By the end of this course, students will be able to:
 
 ---
 
-### Prerequisites
+## Prerequisites
 * **Mathematics**: Strong proficiency in Multivariate Calculus, Linear Algebra, and Probability Theory.
 * **Programming**: Basic proficiency in **Python** (specifically NumPy and Pandas).
 
 ---
 
-### Evaluation & Projects
+## Evaluation & Projects
 * **Coding Assignments (50%)**: Biweekly problem sets requiring the application of mathematical concepts through Python-based simulations and analysis.
 * **Final Project (50%)**: A substantial independent or group project. You will demonstrate mastery of a core course concept by analyzing a financial dataset of your choice, presented through professional data visualizations and quantitative metrics.
 
@@ -44,14 +44,14 @@ By the end of this course, students will be able to:
 
 ---
 
-### Logistics & AI Policy
+## Logistics & AI Policy
 * **Communication**: All announcements are made via the course **Discord**. Please use public channels for material-related questions to foster collaborative learning.
 * **Submissions**: All work (notes and reports) must be submitted as **Markdown or Jupyter Notebooks**.
 * **AI Usage**: **Unrestricted use of AI tools** (e.g., ChatGPT, Claude) is permitted for all assignments. No formal disclosure or citation is required. However, students remain 100% responsible for the accuracy, logic, and originality of their final submissions.
 
 ---
 
-### Course Schedule
+## Course Schedule
 
 | Week | Topic | Key Concepts |
 | :--- | :--- | :--- |
@@ -59,5 +59,5 @@ By the end of this course, students will be able to:
 
 ---
 
-### Resources
+## Resources
 * **Primary**: Instructor-provided Course Notes.
