@@ -9,7 +9,7 @@ author_profile: false
 
 ### Course Information
 * **Instructor**: Shen-Ning Tung ([tung@math.nthu.edu.tw](mailto:tung@math.nthu.edu.tw))
-* **Lecture Time**: Wednesdays, 14:20 PM – 15:10 PM and Friday, 10:10 AM - 12:00 AM
+* **Lecture Time**: Wednesdays, 14:20 PM – 15:10 PM and Fridays, 10:10 AM - 12:00 AM
 * **Office Hours**: By appointment
 * **Target Audience**: Upper-level Undergraduate and Graduate students in Quantitative Finance, Mathematics, and Data Science.
 
