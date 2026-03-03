@@ -56,6 +56,7 @@ By the end of this course, students will be able to:
 | Week | Topic | Key Concepts |
 | :--- | :--- | :--- |
 | 1 | **Introduction** | Overview of QF & Financial Data Science |
+| 2 | **Probabilistic Environment** | Distributions, Transformations, and Elicitability |
 
 ---
 
