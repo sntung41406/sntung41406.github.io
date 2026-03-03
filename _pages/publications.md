@@ -42,4 +42,5 @@ My current research program is focused on deriving robust analytical and computa
 ## Preprints
 * Lee, C. Y., Tung, S. N., & Wang, T. H. (2024). **Growth rate of liquidity provider's wealth in G3Ms.** arXiv preprint arXiv:2403.18177. (Submitted)
 * Tung, S. N., & Wang, T. H. (2024). **A mathematical framework for modelling CLMM dynamics in continuous time.** arXiv preprint arXiv:2412.18580. (Submitted)
-* Risk, J., Tung, S. N., & Wang, T. H. (2025). **Dynamics of Liquidity Surfaces in Uniswap v3** arXiv preprint arXiv:2509.05013.
+* Risk, J., Tung, S. N., & Wang, T. H. (2025). **Dynamics of liquidity surfaces in Uniswap v3.** arXiv preprint arXiv:2509.05013.
+* Risk, J., Tung, S. N., & Wang, T. H. (2026). **Pricing and hedging for liquidity provision in Constant Function Market Making.** arXiv preprint arXiv:2603.01344.
