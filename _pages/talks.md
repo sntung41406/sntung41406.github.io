@@ -12,6 +12,7 @@ Below is a full list of talks I have given, with slides and/or documents (when a
 * **DeFi Under the Microscope: A Data Science Approach** - Taiwanese Society of Industrial and Applied Mathematics (TWSIAM), Taipei, Taiwan - May 2024
 
 ## Seminar Talks
+* **Replacing the Banker with a Function** - NCCU Mathematics Colloquium, Taipei, Taiwan - March 2026 - [Link](DF_NCCU.pdf)
 * **Decentralized Finance: Foundations and Innovations** - NSYSU Mathematics Colloquium, Kaohsiung, Taiwan - March 2025 - [Link](https://hackmd.io/@e41406/H1tC_Jmw1g)
 * **Automated Market Makers: A Mathematical Finance Perspective** - University of Calgary Mathematical Finance Seminar, Calgary, Canada - February 2025 - [Link](https://hackmd.io/8ftiDtGJQ4uaGRS3w-yGSQ)
 * **Applied Linear Algebra: The Backbone of Real-World Problem Solving** - NTHU Mathematics Colloquium, Hsinchu, Taiwan - June 2024 - [Link](https://hackmd.io/@e41406/HycRq9OVA)
