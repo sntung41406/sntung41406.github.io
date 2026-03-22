@@ -56,7 +56,10 @@ By the end of this course, students will be able to:
 | Week | Topic | Key Concepts |
 | :--- | :--- | :--- |
 | 1 | **Introduction** | Overview of QF & Financial Data Science |
-| 2 | **Probabilistic Environment** | Distributions, Transformations, and Elicitability |
+| 2 | **Probabilistic Environment-1** | Distributions, Transformations, and Elicitability |
+| 3 | **Probabilistic Environment-2** | Independence, Conditioning, and Copulas |
+| 4 | **Mean-Covariance Environment-1** | Mean, Covariance, and Affine Transformations |
+| 5 | **Mean-Covariance Environment-2** | Uncorrelation, Linear Projection, and Connections with Conditional Independence |
 
 ---
 
