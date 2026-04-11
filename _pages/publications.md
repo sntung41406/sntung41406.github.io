@@ -33,6 +33,7 @@ My current research program is focused on deriving robust analytical and computa
 
 
 ## Publications
+* Lee, C. Y., Tung, S. N., & Wang, T. H. (2024). **Growth rate of liquidity provider's wealth in G3Ms.** To appear in Applied Mathematical Finance
 * A. Christian Silva, Shen-Ning Tung, Wei-Ru Chen. **Stylized facts in Web3.** Frontiers of Mathematical Finance, 2024, 3(4): 572-609. doi: 10.3934/fmf.2024021
 * Joseph Najnudel, Shen-Ning Tung, Kazutoshi Yamazaki, Ju-Yi Yen. **An arbitrage driven price dynamics of Automated Market Makers in the presence of fees.** Frontiers of Mathematical Finance, 2024, 3(4): 560-571. doi: 10.3934/fmf.2024018
 * Tung, SN. **On the automorphy of 2-dimensional potentially semistable deformation rings of $G_{\mathbb{Q}_p}$.** *Algebra & Number Theory*, 15(9), 2173–2194 (2021). doi: 10.2140/ant.2021.15.2173 
@@ -40,7 +41,6 @@ My current research program is focused on deriving robust analytical and computa
 * Paškūnas V, Tung S-N. **Finiteness properties of the category of mod p representations of $\textrm{GL}_2 (\mathbb{Q}_p)$.** *Forum of Mathematics, Sigma.* 2021;9:e80. doi:10.1017/fms.2021.72
 
 ## Preprints
-* Lee, C. Y., Tung, S. N., & Wang, T. H. (2024). **Growth rate of liquidity provider's wealth in G3Ms.** arXiv preprint arXiv:2403.18177. (Submitted)
 * Tung, S. N., & Wang, T. H. (2024). **A mathematical framework for modelling CLMM dynamics in continuous time.** arXiv preprint arXiv:2412.18580. (Submitted)
-* Risk, J., Tung, S. N., & Wang, T. H. (2025). **Dynamics of liquidity surfaces in Uniswap v3.** arXiv preprint arXiv:2509.05013.
-* Risk, J., Tung, S. N., & Wang, T. H. (2026). **Pricing and hedging for liquidity provision in Constant Function Market Making.** arXiv preprint arXiv:2603.01344.
+* Risk, J., Tung, S. N., & Wang, T. H. (2025). **Dynamics of liquidity surfaces in Uniswap v3.** arXiv preprint arXiv:2509.05013. (Submitted)
+* Risk, J., Tung, S. N., & Wang, T. H. (2026). **Pricing and hedging for liquidity provision in Constant Function Market Making.** arXiv preprint arXiv:2603.01344. (Submitted)
