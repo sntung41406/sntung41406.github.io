@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Math 594: Numerical Computation with JAX"
+title: "Math 594: Numerical Computation with JAX (S26)"
 permalink: /Math594/
 author_profile: false
 ---
@@ -58,11 +58,14 @@ By the end of this course, students will be able to:
 | Weeks | Module | Key Concepts |
 | :--- | :--- | :--- |
 | 1 | **Overview** | Why JAX? The Case for Differentiable Programming |
-| 2–4 | **JAX 101** | Functional programming, Arrays, and JIT compilation |
+| 2–6 | **JAX 101** | Functional programming, Arrays, and JIT compilation |
+| 7–10 | **Differentiable Programming** | Fundamentals, Differentiable programs, Differentiating programs, Smoothing programs |
+| 11–15 | **JAX AI Stack** | Flax, Orbax, Optax, chex, grain |
 
 ---
 
 ## Resources
 * [The Elements of Differentiable Programming](https://diffprog.github.io/)
 * [Official JAX Documentation](https://docs.jax.dev/en/latest/)
+* [JAX AI Stack](https://jaxstack.ai/)
 * Instructor-provided Course Notes.
