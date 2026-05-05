@@ -31,9 +31,8 @@ My current research program is focused on deriving robust analytical and computa
     * **Financial Optimization/Planning:** Applying advanced machine learning, such as *Distributional Reinforcement Learning (DRL)* and *World Models*, to build robust market-making strategies that explicitly manage the heavy-tailed, non-Gaussian risks inherent in decentralized markets.
 
 
-
 ## Publications
-* Lee, C. Y., Tung, S. N., & Wang, T. H. (2024). **Growth rate of liquidity provider's wealth in G3Ms.** To appear in Applied Mathematical Finance
+* Tung, S. N., Lee, C. Y., & Wang, T. H. (2026). **Growth Rate of Liquidity Provider’s Wealth in G3Ms.** Applied Mathematical Finance, 1–44. doi: 10.1080/1350486X.2026.2662662
 * A. Christian Silva, Shen-Ning Tung, Wei-Ru Chen. **Stylized facts in Web3.** Frontiers of Mathematical Finance, 2024, 3(4): 572-609. doi: 10.3934/fmf.2024021
 * Joseph Najnudel, Shen-Ning Tung, Kazutoshi Yamazaki, Ju-Yi Yen. **An arbitrage driven price dynamics of Automated Market Makers in the presence of fees.** Frontiers of Mathematical Finance, 2024, 3(4): 560-571. doi: 10.3934/fmf.2024018
 * Tung, SN. **On the automorphy of 2-dimensional potentially semistable deformation rings of $G_{\mathbb{Q}_p}$.** *Algebra & Number Theory*, 15(9), 2173–2194 (2021). doi: 10.2140/ant.2021.15.2173 
