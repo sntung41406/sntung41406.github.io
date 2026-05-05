@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "MATH 570: Quantitative Finance I"
+title: "MATH 570: Quantitative Finance I (S26)"
 permalink: /MATH570/
 author_profile: false
 ---
@@ -56,10 +56,17 @@ By the end of this course, students will be able to:
 | Week | Topic | Key Concepts |
 | :--- | :--- | :--- |
 | 1 | **Introduction** | Overview of QF & Financial Data Science |
-| 2 | **Probabilistic Environment-1** | Distributions, Transformations, and Elicitability |
-| 3 | **Probabilistic Environment-2** | Independence, Conditioning, and Copulas |
-| 4 | **Mean-Covariance Environment-1** | Mean, Covariance, and Affine Transformations |
-| 5 | **Mean-Covariance Environment-2** | Uncorrelation, Linear Projection, and Connections with Conditional Independence |
+| 2 | **Probabilistic Framework-1** | Distributions, Transformations, and Elicitability |
+| 3 | **Probabilistic Framework-2** | Independence, Conditioning, and Copulas |
+| 4 | **Mean-Covariance Framework-1** | Mean, Covariance, and Affine Transformations |
+| 5 | **Mean-Covariance Frameworkt-2** | Uncorrelation, Linear Projection, and Connections with Conditional Independence |
+| 6 | **Estimation-1** | Statistical Decision Theory |
+| 7 | **Estimation-2** | Estimation Theory |
+| 8 | **Estimation-3** | Model Selection |
+| 9 | **Inference** | Views, Black-Litterman |
+| 10 | **Linear Mean-Covariance Statistics-1** | Foundations, Linear Regression |
+| 11 | **Linear Mean-Covariance Statistics-2** | Principal Component Analysis |
+| 12 | **Linear Mean-Covariance Statistics-3** | Factor Analysis, Linear Optimal Transport |
 
 ---
 
