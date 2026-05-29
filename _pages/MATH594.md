@@ -61,6 +61,7 @@ By the end of this course, students will be able to:
 | 2–6 | **JAX 101** | Functional programming, Arrays, and JIT compilation |
 | 7–10 | **Differentiable Programming** | Fundamentals, Differentiable programs, Differentiating programs, Smoothing programs |
 | 11–15 | **JAX AI Stack** | Flax, Orbax, Optax, chex, grain |
+| 16 | **Final Presentation** | Review final projects |
 
 ---
 
