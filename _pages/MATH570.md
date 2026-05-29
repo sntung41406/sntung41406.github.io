@@ -67,6 +67,10 @@ By the end of this course, students will be able to:
 | 10 | **Linear Mean-Covariance Statistics-1** | Foundations, Linear Regression |
 | 11 | **Linear Mean-Covariance Statistics-2** | Principal Component Analysis |
 | 12 | **Linear Mean-Covariance Statistics-3** | Factor Analysis, Linear Optimal Transport |
+| 13 | **Linear Mean-Covariance Statistics-4** | Linear Causality |
+| 14 | **Linear Mean-Covariance Statistics-5** | Mean-Covariance Estimation |
+| 15 | **Case Study-1** | Perpetual Futures, Prediction Markets |
+| 16 | **Case Study-2** | Decentralized Finance |
 
 ---
 
