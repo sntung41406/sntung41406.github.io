@@ -32,7 +32,7 @@ My current research program is focused on deriving robust analytical and computa
 
 
 ## Publications
-* Tung, S. N., Lee, C. Y., & Wang, T. H. (2026). **Growth Rate of Liquidity Provider’s Wealth in G3Ms.** Applied Mathematical Finance, 1–44. doi: 10.1080/1350486X.2026.2662662
+* Lee, C. Y., Tung, S.-N., & Wang, T.-H. (2026). **Growth rate of liquidity provider’s wealth in G3Ms.** Applied Mathematical Finance, 32(6), 379–422. https://doi.org/10.1080/1350486X.2026.2662662
 * A. Christian Silva, Shen-Ning Tung, Wei-Ru Chen. **Stylized facts in Web3.** Frontiers of Mathematical Finance, 2024, 3(4): 572-609. doi: 10.3934/fmf.2024021
 * Joseph Najnudel, Shen-Ning Tung, Kazutoshi Yamazaki, Ju-Yi Yen. **An arbitrage driven price dynamics of Automated Market Makers in the presence of fees.** Frontiers of Mathematical Finance, 2024, 3(4): 560-571. doi: 10.3934/fmf.2024018
 * Tung, SN. **On the automorphy of 2-dimensional potentially semistable deformation rings of $G_{\mathbb{Q}_p}$.** *Algebra & Number Theory*, 15(9), 2173–2194 (2021). doi: 10.2140/ant.2021.15.2173 
