@@ -11,13 +11,10 @@ author_profile: false
 
 {% include base_path %}
 
-I am a researcher working at the intersection of **digital finance**, **mathematical modeling**, and **AI**. My work combines rigorous mathematical tools with modern machine learning to understand and improve how digital financial markets are designed and operated. I am particularly focused on decentralized exchanges and prediction markets — building models that are both theoretically grounded and practically deployable.
-
-
 
 ## Current Research Areas
 
-My research sits at the intersection of financial markets, machine learning, and game theory. The central question is: **can we replace hand-crafted rules and assumptions in market design with systems that learn directly from data?**
+I am a researcher working at the intersection of **digital finance**, **mathematical modeling**, and **AI**. My work combines rigorous mathematical tools with modern machine learning to understand and improve how digital financial markets are designed and operated. The central question is: **can we replace hand-crafted rules and assumptions in market design with systems that learn directly from data?**
 
 This work spans two connected areas:
  
@@ -25,9 +22,11 @@ This work spans two connected areas:
 2. **Prediction Markets & High-Frequency Dynamics** — building learning systems that extract actionable signals directly from raw market data, without relying on hand-engineered features.
 Both pillars share a common foundation in self-supervised representation learning (systems that learn structure from data without human-labeled examples).
 
+Both pillars share a common foundation in self-supervised representation learning (systems that learn structure from data without human-labeled examples).
+
 ---
 
-### Pillar 1: Automated Market Makers (AMMs)
+## Pillar 1: Automated Market Makers (AMMs)
  
 **The problem:** In most decentralized exchanges today, passive liquidity providers (LPs) — the people who fund trading pools — quietly lose money to informed traders who exploit price gaps between the pool and the broader market. This is called *Loss-Versus-Rebalancing (LVR)*. The projects below attack this problem from different angles.
  
@@ -35,7 +34,7 @@ Both pillars share a common foundation in self-supervised representation learnin
 
 ---
  
-#### 1. Multi-AMM Simulation in JAX
+### 1. Multi-AMM Simulation in JAX
  
 **Motivation:** Testing market design ideas requires fast, flexible simulation across many market conditions.
  
@@ -43,7 +42,7 @@ Both pillars share a common foundation in self-supervised representation learnin
  
 ---
  
-#### 2. Single-Period LP Pricing (Glosten–Milgrom Framework)
+### 2. Single-Period LP Pricing (Glosten–Milgrom Framework)
  
 **Motivation:** How should a liquidity provider set bid/ask prices when they don't know whether the next trader is informed or not?
  
@@ -51,7 +50,7 @@ Both pillars share a common foundation in self-supervised representation learnin
  
 ---
  
-#### 3. N-Player LP Competition
+### 3. N-Player LP Competition
  
 **Motivation:** Real pools have multiple competing LPs, each trying to capture retail flow while avoiding toxic order flow.
  
@@ -59,7 +58,7 @@ Both pillars share a common foundation in self-supervised representation learnin
  
 ---
  
-#### 4. Stackelberg Arbitrage Game
+### 4. Stackelberg Arbitrage Game
  
 **Motivation:** How does a pool operator set prices dynamically when arbitrageurs will immediately respond to any mispricing?
  
@@ -67,7 +66,7 @@ Both pillars share a common foundation in self-supervised representation learnin
  
 ---
  
-#### 5. am-AMM Continuous-Time Control
+### 5. am-AMM Continuous-Time Control
  
 **Motivation:** The *auction-managed AMM* (am-AMM) model proposes leasing pool management rights to a single operator who takes on the risk of arbitrage losses in exchange for a fee. How should this operator behave optimally over time?
  
@@ -77,7 +76,7 @@ Both pillars share a common foundation in self-supervised representation learnin
  
 ---
  
-#### 6. P&L-Aware Regime Detection (SSRD)
+### 6. P&L-Aware Regime Detection (SSRD)
  
 **Motivation:** Standard clustering methods (like K-Means) group market states by statistical similarity — but statistical similarity doesn't always map to trading relevance.
  
@@ -85,7 +84,7 @@ Both pillars share a common foundation in self-supervised representation learnin
  
 ---
  
-### Pillar 2: Prediction Markets & High-Frequency Dynamics
+## Pillar 2: Prediction Markets & High-Frequency Dynamics
  
 **The problem:** Hand-crafted features for financial prediction are brittle — they work until market conditions shift. This pillar asks whether we can build systems that learn robust representations directly from raw data, bypassing feature engineering entirely.
  
@@ -93,7 +92,7 @@ Both pillars share a common foundation in self-supervised representation learnin
  
 ---
  
-#### 1. Short-Term Binary Options via JEPA & World Models
+### 1. Short-Term Binary Options via JEPA & World Models
  
 **Motivation:** Reconstructing raw market data (predicting exact prices tick-by-tick) wastes model capacity on noise. We only care about the information relevant to near-term outcomes.
  
@@ -103,7 +102,7 @@ Both pillars share a common foundation in self-supervised representation learnin
 
 ---
  
-#### 2. Sports Betting Markets via Temporal GNNs
+### 2. Sports Betting Markets via Temporal GNNs
  
 **Motivation:** Sports prediction markets on platforms like Polymarket span many proposition types (match winner, map duration, in-game objectives). Isolated team statistics miss cross-regional competitive context and non-stationary performance over time.
  
