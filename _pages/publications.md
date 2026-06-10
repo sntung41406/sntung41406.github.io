@@ -12,8 +12,6 @@ author_profile: false
 {% include base_path %}
 
 
-## Current Research Areas
-
 I am a researcher working at the intersection of **digital finance**, **mathematical modeling**, and **AI**. My work combines rigorous mathematical tools with modern machine learning to understand and improve how digital financial markets are designed and operated. The central question is: **can we replace hand-crafted rules and assumptions in market design with systems that learn directly from data?**
 
 This work spans two connected areas:
