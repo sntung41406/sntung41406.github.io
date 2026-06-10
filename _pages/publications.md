@@ -99,10 +99,8 @@ Both pillars share a common foundation in self-supervised representation learnin
  
 **Goal/Scope:** Apply Yann LeCun's Joint-Embedding Predictive Architecture (JEPA) to short-duration (5–15 min) binary option markets on Polymarket. Rather than predicting raw prices, the model learns compact latent representations of limit order book states. A planning module then simulates potential quoting strategies in this latent space and selects actions that best balance fill probability against adverse selection risk.
  
-**Quick catch-up:**
-- [LeCun on JEPA and world models (talk)](https://www.youtube.com/watch?v=kYkIdXwW2AE)
-- [World models overview (video)](https://www.youtube.com/watch?v=v_jDvpEGTIg)
-- [JEPA deep dive (blog)](https://rohitbandaru.github.io/blog/JEPA-Deep-Dive/)
+**Quick catch-up:** [JEPA deep dive (blog)](https://rohitbandaru.github.io/blog/JEPA-Deep-Dive/)
+
 ---
  
 #### 2. Sports Betting Markets via Temporal GNNs
@@ -111,31 +109,9 @@ Both pillars share a common foundation in self-supervised representation learnin
  
 **Goal/Scope:** Build a graph neural network that treats historical match results as a global graph, routing information across international competitions to calibrate relative team strength. A temporal component tracks how team form evolves over time, with a mechanism to widen uncertainty estimates at season boundaries when rosters change. A multi-output head produces calibrated predictions across different proposition types from a shared backbone.
  
-**Quick catch-up:**
-- [Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
-- [Theoretical foundations of GNNs (lecture)](https://www.youtube.com/watch?v=uF53xsT7mjc)
-- [TacticAI: AI assistant for football tactics (DeepMind)](https://deepmind.google/blog/tacticai-ai-assistant-for-football-tactics/)
----
- 
-### How the Projects Connect
- 
-Each project builds on the others:
- 
-- **Regime detection → simulation:** The market regimes learned by SSRD configure the multi-AMM simulator, making backtests more realistic.
-- **Analytical bounds → ML regularization:** The closed-form solutions from the Glosten-Milgrom and N-player models provide principled constraints for the learning-based systems.
-- **Stochastic control + world models → unified framework:** The am-AMM control framework and the JEPA world models are converging toward a shared architecture for autonomous market-making — one that can simultaneously forecast, manage risk, and plan across global electronic markets.
----
- 
-### Who I'm Looking For
- 
-I'm actively looking for collaborators and students with backgrounds in one or more of the following:
- 
-- **Stochastic control / mathematical finance** — for the am-AMM and game-theoretic projects
-- **Machine learning / deep learning** — for the JEPA, world model, and GNN projects
-- **Quantitative research or algorithmic trading** — for empirical validation and real-market testing
-- **Decentralized finance (DeFi)** — for protocol design intuition and on-chain data access
-If you're a student interested in a research project or thesis topic, or a researcher looking for collaboration on any of the above, feel free to reach out. Most projects are in active early development, so there is genuine room to shape the direction.
+**Quick catch-up:**  [TacticAI: AI assistant for football tactics (DeepMind)](https://deepmind.google/blog/tacticai-ai-assistant-for-football-tactics/)
 
+---
 
 ## Publications
 
