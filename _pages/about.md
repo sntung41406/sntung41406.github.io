@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am **Shen-Ning Tung**, an Assistant Professor in the [**Department of Mathematics**](https://www.math.nthu.edu.tw/) at [**National Tsing Hua University**](https://nthu-en.site.nthu.edu.tw/). My research specializes in **Mathematical Finance** and **Applied Probability**, bridging theoretical control methodologies with real-world problems in **Quantitative Finance** and emerging areas like **Decentralized Finance (DeFi)**.
+I am **Shen-Ning Tung**, an Assistant Professor in the [**Department of Mathematics**](https://www.math.nthu.edu.tw/) at [**National Tsing Hua University**](https://nthu-en.site.nthu.edu.tw/). My research sits at the intersection of **digital finance**, **mathematical modeling**, and **AI** — combining rigorous mathematical tools with modern machine learning to understand and improve how digital financial markets are designed and operated.
+
+My current work focuses on two areas: designing better **Automated Market Makers (AMMs)** for decentralized exchanges, and building learning systems for **prediction markets and high-frequency dynamics**. Both draw on stochastic control, game theory, and self-supervised deep learning. My earlier work was in number theory, but I am no longer active in that area.
+
+I supervise graduate and undergraduate students on projects across quantitative finance, DeFi, and applied AI. See my [research](/publications/) and [student supervision](/student-supervision/) pages for more details, or feel free to get in touch directly.
 
 
 ## Contact and Location
