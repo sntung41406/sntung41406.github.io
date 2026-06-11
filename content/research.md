@@ -4,11 +4,21 @@ title: "Research"
 
 I am a researcher working at the intersection of **digital finance**, **mathematical modeling**, and **AI**. My work combines rigorous mathematical tools with modern machine learning to understand and improve how digital financial markets are designed and operated. The central question is: **can we replace hand-crafted rules and assumptions in market design with systems that learn directly from data?**
 
-This work spans two connected areas, both grounded in self-supervised representation learning — systems that learn structure from data without human-labeled examples:
+This work spans two connected areas, both grounded in self-supervised representation learning — systems that learn structure from data without human-labeled examples.
 
-1. **Automated Market Makers (AMMs)** — redesigning decentralized exchange protocols to better protect passive liquidity providers (LPs) against *Loss-Versus-Rebalancing (LVR)*, the quiet drain caused by informed traders exploiting price gaps. Projects span: high-speed multi-AMM simulation in JAX for RL-based fee experiments; single-period LP pricing via a Glosten–Milgrom adaptation (revealing a sharp threshold where optimal quotes shift abruptly to defensive spreads); N-player LP competition and Nash equilibrium characterization (profit margins vanish as N grows); a Stackelberg arbitrage game with provably unique equilibrium; continuous-time stochastic optimal control for auction-managed AMMs (am-AMMs); and P&L-aware regime detection (SSRD) that clusters market states by LP profitability impact rather than statistical similarity. ([AMM challenge](https://www.optimizationarena.com/amm) · [Prop AMM challenge](https://www.optimizationarena.com/prop-amm))
+**Automated Market Makers (AMMs)** — redesigning decentralized exchange protocols to better protect passive liquidity providers (LPs) against *Loss-Versus-Rebalancing (LVR)*, the quiet drain caused by informed traders exploiting price gaps. ([AMM challenge](https://www.optimizationarena.com/amm) · [Prop AMM challenge](https://www.optimizationarena.com/prop-amm))
 
-2. **Prediction Markets & High-Frequency Dynamics** — building learning systems that extract actionable signals directly from raw market data, bypassing brittle hand-engineered features. Two tracks: (i) short-duration (5–15 min) binary options on Polymarket via a JEPA-based world model that learns compact latent representations of limit order book states and plans quoting strategies in latent space; (ii) sports betting markets via a temporal graph neural network that routes information across international competitions to calibrate relative team strength, with uncertainty widening at season boundaries and a shared backbone for multi-proposition prediction. ([Prediction market challenge](https://www.optimizationarena.com/prediction-market-challenge))
+- Multi-AMM simulation in JAX — high-speed, fully compiled simulator for RL-based fee and pool design experiments across competing pools.
+- Single-period LP pricing (Glosten–Milgrom) — optimal price distribution for a LP facing a mix of informed and uninformed traders; reveals a sharp threshold where quotes shift abruptly to defensive wide spreads.
+- N-player LP competition — Nash equilibrium characterization of competing LPs; in equilibrium, liquidity must be spread continuously and profit margins vanish as N grows.
+- Stackelberg arbitrage game — two-level game between pool operator and competing arbitrageurs, with conditions guaranteeing a unique stable equilibrium.
+- am-AMM continuous-time control — stochastic optimal control for auction-managed AMMs; closed-form solutions for optimal fees and rental policies.
+- P&L-aware regime detection (SSRD) — neural encoder that clusters market states by LP profitability impact rather than statistical similarity.
+
+**Prediction Markets & High-Frequency Dynamics** — building learning systems that extract actionable signals directly from raw market data, bypassing brittle hand-engineered features. ([Prediction market challenge](https://www.optimizationarena.com/prediction-market-challenge))
+
+- Short-term binary options via JEPA — world model for 5–15 min Polymarket contracts; learns compact latent representations of limit order book states and plans quoting strategies in latent space rather than predicting raw prices.
+- Sports betting via temporal GNNs — graph neural network over historical match results that routes information across international competitions to calibrate team strength, with uncertainty widening at season boundaries and a shared backbone for multi-proposition prediction.
 
 * * *
 
