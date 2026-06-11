@@ -13,6 +13,9 @@ theme = "minimal"
     highlight = false
     css = ["css/custom.css"]
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [markup.goldmark.extensions.passthrough]
   enable = true
   [markup.goldmark.extensions.passthrough.delimiters]

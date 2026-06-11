@@ -2,6 +2,8 @@
 title: "Shen-Ning Tung"
 ---
 
+<img src="/photo.jpg" alt="Shen-Ning Tung" style="float:right; margin: 0 0 1em 2em; width:170px; border-radius:4px;">
+
 I am **Shen-Ning Tung**, an Assistant Professor in the [Department of Mathematics](https://www.math.nthu.edu.tw/) at [National Tsing Hua University](https://nthu-en.site.nthu.edu.tw/). My research sits at the intersection of **digital finance**, **mathematical modeling**, and **AI** — combining rigorous mathematical tools with modern machine learning to understand and improve how digital financial markets are designed and operated.
 
 My current work focuses on two areas: designing better **Automated Market Makers (AMMs)** for decentralized exchanges, and building learning systems for **prediction markets and high-frequency dynamics**. Both draw on stochastic control, game theory, and self-supervised deep learning. My earlier work was in number theory, but I am no longer active in that area.
