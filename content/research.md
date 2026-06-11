@@ -26,13 +26,15 @@ Building learning systems that extract actionable signals directly from raw mark
 
 * * *
 
-## Publications
-
-### DeFi & Mathematical Finance
+## Preprints
 
 [Pricing and hedging for liquidity provision in Constant Function Market Making.](https://arxiv.org/abs/2603.01344) Risk, J., Tung, S. N., & Wang, T. H. [arXiv:2603.01344](https://arxiv.org/abs/2603.01344) (submitted).
 
 [Dynamics of liquidity surfaces in Uniswap v3.](https://arxiv.org/abs/2509.05013) Risk, J., Tung, S. N., & Wang, T. H. [arXiv:2509.05013](https://arxiv.org/abs/2509.05013) (submitted).
+
+## Publications
+
+### DeFi & Mathematical Finance
 
 [A mathematical framework for modelling CLMM dynamics in continuous time.](https://arxiv.org/abs/2412.18580) Tung, S. N., & Wang, T. H. *Digital Finance* (accepted). [arXiv:2412.18580](https://arxiv.org/abs/2412.18580)
 
