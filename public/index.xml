@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Shen-Ning Tung</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content on Shen-Ning Tung</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>CV</title>
+				<link>http://localhost:1313/cv/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/cv/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/CV.pdf&#34;&gt;Download CV (PDF)&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Group</title>
+				<link>http://localhost:1313/group/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/group/</guid>
+				<description>&lt;p&gt;I work with students at the intersection of &lt;strong&gt;digital finance&lt;/strong&gt;, &lt;strong&gt;mathematical modeling&lt;/strong&gt;, and &lt;strong&gt;AI&lt;/strong&gt;. My goal is to help students build both the theoretical foundations and practical skills needed for research or industry in quantitative finance and data science — through problem-driven projects with real-world relevance.&lt;/p&gt;&#xA;&lt;p&gt;I am looking for students and collaborators with interests in stochastic control / mathematical finance, machine learning / deep learning, quantitative research or algorithmic trading, or decentralized finance (DeFi). Most projects are in active early development, so there is genuine room to shape the direction. Feel free to reach out if any of the areas below interest you.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Research</title>
+				<link>http://localhost:1313/research/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/research/</guid>
+				<description>&lt;p&gt;I am a researcher working at the intersection of &lt;strong&gt;digital finance&lt;/strong&gt;, &lt;strong&gt;mathematical modeling&lt;/strong&gt;, and &lt;strong&gt;AI&lt;/strong&gt;. My work combines rigorous mathematical tools with modern machine learning to understand and improve how digital financial markets are designed and operated. The central question is: &lt;strong&gt;can we replace hand-crafted rules and assumptions in market design with systems that learn directly from data?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;This work spans two connected areas, both grounded in self-supervised representation learning — systems that learn structure from data without human-labeled examples:&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Talks</title>
+				<link>http://localhost:1313/talks/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/talks/</guid>
+				<description>&lt;h2 id=&#34;invited-lectures&#34;&gt;Invited Lectures&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;DeFi Under the Microscope: A Data Science Approach&lt;/strong&gt; — Taiwanese Society of Industrial and Applied Mathematics (TWSIAM), Taipei, Taiwan (May 2024)&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;seminar-talks&#34;&gt;Seminar Talks&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Replacing the Banker with a Function&lt;/strong&gt; — NCCU Mathematics Colloquium, Taipei, Taiwan (March 2026) (&lt;a href=&#34;http://localhost:1313/DF_NCCU.pdf&#34;&gt;Slides&lt;/a&gt;)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Decentralized Finance: Foundations and Innovations&lt;/strong&gt; — NSYSU Mathematics Colloquium, Kaohsiung, Taiwan (March 2025) (&lt;a href=&#34;https://hackmd.io/@e41406/H1tC_Jmw1g&#34;&gt;Slides&lt;/a&gt;)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Automated Market Makers: A Mathematical Finance Perspective&lt;/strong&gt; — University of Calgary Mathematical Finance Seminar, Calgary, Canada (February 2025) (&lt;a href=&#34;https://hackmd.io/8ftiDtGJQ4uaGRS3w-yGSQ&#34;&gt;Slides&lt;/a&gt;)&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Teaching</title>
+				<link>http://localhost:1313/teaching/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/teaching/</guid>
+				<description>&lt;h2 id=&#34;national-tsing-hua-university-2022&#34;&gt;National Tsing Hua University (2022–)&lt;/h2&gt;&#xA;&lt;p&gt;I primarily teach advanced courses focusing on the intersection of mathematics, finance, and data science.&lt;/p&gt;&#xA;&lt;h4 id=&#34;current-courses&#34;&gt;Current Courses&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/MATH570.pdf&#34;&gt;&lt;strong&gt;MATH 570: Quantitative Finance I&lt;/strong&gt;&lt;/a&gt; · &lt;a href=&#34;http://localhost:1313/MATH594.pdf&#34;&gt;&lt;strong&gt;MATH 594: Numerical Computation with JAX&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;past-graduate-courses&#34;&gt;Past Graduate Courses&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;MATH 597: Math Foundations of Data Science&lt;/strong&gt; (Fall 2024) — Linear algebra, optimization, and probability for advanced ML and AI. (&lt;a href=&#34;http://localhost:1313/MATH597.pdf&#34;&gt;Link&lt;/a&gt;)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;MATH 570: Financial Mathematics II&lt;/strong&gt; (Spring 2024) — Data-driven quantitative methods: statistical learning, RL, and deep learning applied to financial problems. (&lt;a href=&#34;https://beaded-antique-299.notion.site/Financial-Mathematics-II-64be834e112d4d49ba4e9a0052240220&#34;&gt;Link&lt;/a&gt;)&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
