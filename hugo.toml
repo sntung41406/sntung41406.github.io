@@ -39,7 +39,7 @@ theme = "minimal"
     weight = 5
 
 [[menu.main]]
-    url = "/cv/"
+    url = "/CV.pdf"
     name = "CV"
     weight = 6
 
