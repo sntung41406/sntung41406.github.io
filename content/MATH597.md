@@ -1,5 +1,6 @@
 ---
 title: "MATH 597: Mathematical Foundations of Data Science (F24)"
+url: "/MATH597/"
 ---
 
 Unlock the power of data with mathematical precision.

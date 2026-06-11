@@ -1,5 +1,6 @@
 ---
 title: "MATH 570: Quantitative Finance I (S26)"
+url: "/MATH570/"
 ---
 
 *Turning Financial Theory into Computational Reality.* As the foundational course in the Quantitative Data Science sequence, MATH 570 builds the rigorous mathematical, probabilistic, and statistical frameworks necessary for modern Quantitative Finance. We move beyond abstract theory to equip you with the tools needed for real-world financial modeling and data-driven decision-making.

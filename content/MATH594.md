@@ -1,5 +1,6 @@
 ---
 title: "MATH 594: Numerical Computation with JAX (S26)"
+url: "/MATH594/"
 ---
 
 **Turning theoretical math into high-performance code.** This course provides a deep dive into JAX — a cutting-edge, high-performance numerical computing library in Python. We explore the potential for implementing scalable algorithms for large-scale data in fields such as probabilistic machine learning, scientific ML, and AI.
