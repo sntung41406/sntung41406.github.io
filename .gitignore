@@ -1,2 +1,5 @@
 _site/
+.hugo_build.lock
+public/
+resources/
 
