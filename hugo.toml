@@ -11,6 +11,7 @@ theme = "minimal"
     backgroundColor = "white"
     font = "Lato"
     highlight = false
+    css = ["css/custom.css"]
 
 [[menu.main]]
     url = "/"
