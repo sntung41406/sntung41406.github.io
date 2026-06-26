@@ -83,3 +83,17 @@ By the end of this course, students will be able to:
 ## Resources
 
 * **Primary**: Instructor-provided Course Notes.
+
+* * *
+
+## Student Projects
+
+* [Taiwan Stock Selection Strategy: Dual Momentum Under Logarithmic Growth Rate Targets](https://github.com/andersonwu2000/Portfolio/tree/master/Quant/FINAL) - Chih-Yao Wu & Chi-Lun Chiu
+* [Simple Portfolio Construction with Crypto Assets](https://github.com/jerryblue2001/Crypto-Portfolio-Construction) - Yuan-Long Chen
+* [Lead-Lag Detection](https://github.com/Dong004/quant-finance-hw/blob/main/LEAD-LAG.ipynb) - Yilin Hu & Huiya Xu
+* [Coinbase Orderbook Analysis](https://github.com/GGDoggy/Quantitative_Finance/blob/main/result/analysis.ipynb) - Sheng-Gang Huang
+* [Asset Allocation Strategy Comparison: Ten Taiwan Stocks](https://github.com/Eric931228/MATH570600_QF/blob/main/Final_Project.ipynb) - Yi Kou, Yi-Zhong Chieng, Ting-An Tau & Huai-Yuan Yang
+* [Testing Short-Term Trend Persistence: A Comparative Study of MA and EWMA Strategies Across Market Regimes](https://github.com/LawrenceCCwei/math570_final) - Che-Wei Chang & Hao-Jun Yang
+* [Algorithmic Market-Making: Evaluating DP, RL, and Avellaneda–Stoikov Frameworks](https://github.com/chenyu0516/market_maker) - Chen-Yu Weng
+* [One Stock to Rule the Index: TSMC and Taiwan’s Market Concentration](https://github.com/tentwni/QF-assignment/blob/main/Final%20presentation/Finmind%20(1).ipynb) - Kuan-Hua Lin & Jua-Hong Li
+* [Constructing a Market Attention Index for the Taiwan Large-Cap Universe](https://github.com/anthroplankton/quant-finance-project/) - Jun-Yi Dong

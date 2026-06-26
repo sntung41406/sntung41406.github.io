@@ -78,3 +78,12 @@ By the end of this course, students will be able to:
 * [Official JAX Documentation](https://docs.jax.dev/en/latest/)
 * [JAX AI Stack](https://jaxstack.ai/)
 * Instructor-provided Course Notes.
+
+* * *
+
+## Student Projects
+
+* [Cloud TPU Acceleration for JAX-Based Vision Transformer Inference](https://github.com/anthroplankton/numerical-jax-project) - Jun-Yi Dong
+* [Representation Learning Using LeJEPA Frameworks](https://github.com/Yiliyiliyiliyiliyili/Testing-the-Theoretical-Claims-of-LeJEPA-by-JAX) - Yi-Li Wang & Peng-Rui Huang
+* [JAX-Powered Physics-Informed Neural Networks for Inverse Problems](https://github.com/jerryblue2001/Advection-Equation-Inverse-Problem-PINN-Experiment) - Yuan-Long Chen
+* [Demystifying Transformers: A From-Scratch JAX Implementation of NanoGPT](https://github.com/Ashine721/NanoGPT-into-jax) - Hsiang-En Liao
