@@ -36,7 +36,7 @@ Building learning systems that extract actionable signals directly from raw mark
 
 ### DeFi & Mathematical Finance
 
-[A mathematical framework for modelling CLMM dynamics in continuous time.](https://arxiv.org/abs/2412.18580) Tung, S. N., & Wang, T. H. *Digital Finance* (accepted). [arXiv:2412.18580](https://arxiv.org/abs/2412.18580)
+[A mathematical framework for modelling CLMM dynamics in continuous time.](https://doi.org/10.1007/s42521-026-00198-z) Tung, S.-N., & Wang, T.-H. *Digital Finance*, 8(1), Article 39 (2026).
 
 [Growth rate of liquidity provider's wealth in G3Ms.](https://doi.org/10.1080/1350486X.2026.2662662) Lee, C. Y., Tung, S.-N., & Wang, T.-H. *Applied Mathematical Finance*, 32(6), 379–422 (2026).
 
