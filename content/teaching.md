@@ -6,11 +6,15 @@ title: "Teaching"
 
 I primarily teach advanced courses focusing on the intersection of mathematics, finance, and data science.
 
-#### Current Courses
+#### Current Courses (Fall 2026)
 
-[**MATH 570: Quantitative Finance I**](/MATH570/) · [**MATH 594: Numerical Computation with JAX**](/MATH594/)
+[**MATH 582: Quantitative Finance II**](/MATH582/) (graduate) · [**MATH 153: Introduction to Mathematics**](/MATH153/) (undergraduate)
 
 #### Past Graduate Courses
+
+**MATH 594: Numerical Computation with JAX** — ([Link](/MATH594/))
+
+**MATH 570: Quantitative Finance I** — ([Link](/MATH570/))
 
 **MATH 597: Math Foundations of Data Science** (Fall 2024) — Linear algebra, optimization, and probability for advanced ML and AI. ([Link](/MATH597/))
 
