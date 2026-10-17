@@ -12,9 +12,9 @@ I primarily teach advanced courses focusing on the intersection of mathematics, 
 
 #### Past Graduate Courses
 
-**MATH 594: Numerical Computation with JAX** — ([Link](/MATH594/))
+**MATH 594: Numerical Computation with JAX** (Spring 2026) — ([Link](/MATH594/))
 
-**MATH 570: Quantitative Finance I** — ([Link](/MATH570/))
+**MATH 570: Quantitative Finance I** (Spring 2026) — ([Link](/MATH570/))
 
 **MATH 597: Math Foundations of Data Science** (Fall 2024) — Linear algebra, optimization, and probability for advanced ML and AI. ([Link](/MATH597/))
 
@@ -24,13 +24,13 @@ I primarily teach advanced courses focusing on the intersection of mathematics, 
 
 #### Past Undergraduate Courses (2022–2023)
 
-**MATH 103: Calculus II** (Spring 2023) · **MATH 103: Calculus I** (Fall 2022)
+**MATH 104: Calculus II** (Spring 2023) · **MATH 103: Calculus I** (Fall 2022)
 
 * * *
 
 ## University of British Columbia (2019–2022)
 
-**MATH 317: Vector Calculus** (Spring 2022) — Vector fields, line and surface integrals, theorems of Green, Stokes, and Gauss.
+**MATH 317: Calculus IV (Vector Calculus)** (Spring 2022) — Vector fields, line and surface integrals, theorems of Green, Stokes, and Gauss.
 
 **MATH 220: Mathematical Proof** (Winter 2021, 2020) — Rigorous proof techniques, foundational set theory, and induction.
 

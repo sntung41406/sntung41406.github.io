@@ -22,9 +22,14 @@ I am looking for students and collaborators with interests in stochastic control
 
 *A Study of AMM Mechanisms and Liquidity Provider Rewards.* ([Thesis](/Wei_Ru_thesis.pdf))
 
+Co-authored publication: A. Christian Silva, Shen-Ning Tung, and Wei-Ru Chen, [*Stylized facts in Web3*](https://doi.org/10.3934/fmf.2024021), *Frontiers of Mathematical Finance* 3(4), 572–609 (2024).
+
 * * *
 
 ## Undergraduate Research Projects
+
+#### 2026–present: PolyWorld
+Sheng-Gang Huang and Chen-Yu Wen — *PolyWorld: Latent World Models for Autonomous Market Making on Prediction Markets.* Undergraduate research mentees supported by an NCTS AI grant.
 
 #### 2025–2026 NCTS Research Program
 Hai-Ching Shih — *Design a better AMM.*
@@ -33,7 +38,7 @@ Hai-Ching Shih — *Design a better AMM.*
 Co-advisor: A. Christian Silva. Students: Tzu-Ling Hsieh, Guan Ting Lu, Tai-Jun Lai, Mu-Chian Lin. *Optimization Methods in Quantitative Trading.* ([Notes](https://hackmd.io/@e41406/HkEZUILYC))
 
 #### 2024 Project: Predictive Modeling for Vehicle Allocation
-Students: Shih-Bin Chen, Jie-Hong Lai, Jia-Wei Liao, Yuan-Hong Lin. *Predictive Modeling for Optimized Vehicle Allocation and Routing in Postal Delivery.* **Best Application Award** & **GLORY Data Application Innovation Award** (Postal Big Data Competition, 2024). ([Notes](https://hackmd.io/AUZwfpsITx66CB8Cj2sN4Q))
+Role: student-team mentor. Students: Shih-Bin Chen, Jie-Hong Lai, Jia-Wei Liao, Yuan-Hong Lin. *Predictive Modeling for Optimized Vehicle Allocation and Routing in Postal Delivery.* **Best Application Award** & **GLORY Data Application Innovation Award** (Postal Big Data Competition, 2024). ([Notes](https://hackmd.io/AUZwfpsITx66CB8Cj2sN4Q))
 
 #### 2023–2024 NCTS Research Program
 Co-advisor: Chang-Ye Tu. Students: De-Jin Huang, Chen-Chung Yang. *Deep Hedging — applying deep learning to derivative hedging strategies.* ([Notes](https://hackmd.io/@JYang/SJOMoqNWA/%2Fr6l2ZZouT-ivlYcLy0aeJg))
