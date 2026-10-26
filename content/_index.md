@@ -4,11 +4,11 @@ title: "Shen-Ning Tung"
 
 <img src="/photo.jpg" alt="Shen-Ning Tung" style="float:right; margin: 0 0 1em 2em; width:170px; border-radius:4px;">
 
-I am **Shen-Ning Tung**, an Assistant Professor in the [Department of Mathematics](https://www.math.nthu.edu.tw/) at [National Tsing Hua University](https://nthu-en.site.nthu.edu.tw/). My research sits at the intersection of **digital finance**, **mathematical modeling**, and **AI** — combining rigorous mathematical tools with modern machine learning to understand and improve how digital financial markets are designed and operated.
+I am **Shen-Ning Tung**, an Assistant Professor in the [Department of Mathematics](https://www.math.nthu.edu.tw/) at [National Tsing Hua University](https://nthu-en.site.nthu.edu.tw/). My research is in **mathematical and digital finance**, with a focus on **liquidity in digital markets**: where liquidity sits across prices, what a liquidity position is worth and how to hedge it, and how the rules that govern liquidity should be designed when traders and providers respond strategically.
 
-My current work focuses on two areas: designing better **Automated Market Makers (AMMs)** for decentralized exchanges, and building learning systems for **prediction markets and high-frequency dynamics**. Both draw on stochastic control, game theory, and self-supervised deep learning. My earlier work was in number theory, but I am no longer active in that area.
+My work follows three connected directions: modeling and pricing liquidity in **automated market makers (AMMs)**, strategic liquidity and **market design**, and **prediction markets**. It draws on stochastic modeling and control, game theory, and representation learning. My earlier work was in algebraic number theory and the $p$-adic Langlands program, but I am no longer active in that area.
 
-I supervise graduate and undergraduate students on projects across quantitative finance, DeFi, and applied AI. See my [research](/research/) and [group](/group/) pages for more details, or feel free to get in touch directly.
+I supervise master's and undergraduate students, and I help students with a mathematics background find their way into interdisciplinary fields such as quantitative finance, data science, and operations research. See my [research](/research/) and [group](/group/) pages for more details, or feel free to get in touch directly.
 
 * * *
 

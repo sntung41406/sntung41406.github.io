@@ -2,7 +2,7 @@
 title: "Group"
 ---
 
-I work with students at the intersection of **digital finance**, **mathematical modeling**, and **AI**. My goal is to help students build both the theoretical foundations and practical skills needed for research or industry in quantitative finance and data science — through problem-driven projects with real-world relevance.
+I help students with a mathematics background find their way into interdisciplinary fields such as quantitative finance, data science, and operations research: connecting their mathematical training to questions in these fields, identifying the additional knowledge and skills those questions require, and developing a direction that reflects their own interests.
 
 I am looking for students and collaborators with interests in stochastic control / mathematical finance, machine learning / deep learning, quantitative research or algorithmic trading, or decentralized finance (DeFi). Most projects are in active early development, so there is genuine room to shape the direction. Feel free to reach out if any of the areas below interest you.
 
@@ -10,9 +10,17 @@ I am looking for students and collaborators with interests in stochastic control
 
 ## Current Research Groups
 
-**Automated Market Makers (AMMs):** Focused on the mathematical and computational design of decentralized exchange protocols — including stochastic control models, game-theoretic liquidity provision, and JAX-based simulation. Projects range from analytical theory to reinforcement learning for fee optimization.
+**Automated Market Makers (AMMs):** The mathematical design of decentralized exchanges — how liquidity evolves across prices, what a liquidity position is worth, and how providers and protocols should set liquidity and trading rules. Projects range from stochastic control and game theory to JAX-based simulation and self-supervised regime detection.
 
-**Prediction Markets & High-Frequency Dynamics:** Focused on building learning systems for short-term binary option markets and sports betting markets on platforms like Polymarket — using world models (JEPA), temporal graph neural networks, and self-supervised representations trained directly on raw market data.
+**Prediction Markets:** Pricing and funding event contracts, and learning methods evaluated by how well they inform liquidity decisions — including world models for short-horizon Polymarket contracts and temporal graph neural networks for sports outcomes.
+
+See the [research](/research/) page for the current status of each project. The regime-detection and world-model projects offer entry points for students: both combine mathematical formulation with evaluation on held-out periods.
+
+* * *
+
+## Current Graduate Students
+
+#### Chih-Yao Wu (M.S. student, 2026–present)
 
 * * *
 
@@ -21,6 +29,8 @@ I am looking for students and collaborators with interests in stochastic control
 #### Wei-Ru Chen (M.S., co-advised with Yuki Chino, June 2024)
 
 *A Study of AMM Mechanisms and Liquidity Provider Rewards.* ([Thesis](/Wei_Ru_thesis.pdf))
+
+The thesis formalizes the trading and liquidity-provision mechanisms of Uniswap v2 and v3, constructs a price dynamic justified by empirical observation, compares liquidity providers' expected returns with depositing assets in a bank, and presents numerical results.
 
 Co-authored publication: A. Christian Silva, Shen-Ning Tung, and Wei-Ru Chen, [*Stylized facts in Web3*](https://doi.org/10.3934/fmf.2024021), *Frontiers of Mathematical Finance* 3(4), 572–609 (2024).
 

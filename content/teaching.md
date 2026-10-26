@@ -8,7 +8,7 @@ I primarily teach advanced courses focusing on the intersection of mathematics, 
 
 #### Current Courses (Fall 2026)
 
-[**MATH 582: Quantitative Finance II**](/MATH582/) (graduate) · [**MATH 153: Introduction to Mathematics**](/MATH153/) (undergraduate)
+[**MATH 582: Quantitative Finance II**](/MATH582/) (upper-level undergraduate and graduate) · [**MATH 153: Introduction to Mathematics**](/MATH153/) (undergraduate)
 
 #### Past Graduate Courses
 

@@ -74,6 +74,12 @@ The quality of the course experience depends heavily on how proactively you enga
 | Week | Topic | Key Concepts |
 |:---|:---|:---|
 | 1 | **Introduction** | Overview of course goal and choose project |
+| 2 | **Project Organization** | — |
+| 3 | **Stochastic Processes Environment** | — |
+| 4 | **White Noise and the Random Walk** | — |
+| 5 | **Mean-Covariance Stochastic Models** | — |
+| 6 | **Covariance Stationary Theory** | — |
+| 7 | **Project Review and Discussion** | — |
 
 * * *
 
